@@ -25,7 +25,7 @@ devtools::install_github("amytildazhang/chinesestudy")
 
 If there are any errors it's because I usually just `devtools::load_all()` and run the functions. 
 
-## Example
+## Example: Using default Chinese notetype
 
 Steps:
 
@@ -47,3 +47,34 @@ save_anki(pleco_deck, "tianguancifu")
 ```
 
 4. Upload to Anki using the "import file" button. This needs to be done on desktop; mobile versions don't seem to allow import.
+
+## Example: Using custom notetype with traditional and simplified
+
+In this example, I made a new notetype with the following fields:
+
+- Traditional
+- Reading
+- Definition
+- Simplified
+
+I named it "Chinese (Trad and Simp)"
+
+```r
+# same as previous example
+library(chinesestudy)
+pleco_deck <- read_pleco("flash.txt") |> 
+  separate_lists() |>
+  reformat_abc() |>
+  merge_dupes()
+
+# difference
+
+pleco_deck <- anno_both(pleco_deck)
+
+colnames(pleco_deck) # check column order before defining headers
+
+save_anki(pleco_deck, "tianguancifu",
+          columns="Traditional;Simplified;Reading;Definition",
+          notetype="Chinese (Trad and Simp)")
+```
+
