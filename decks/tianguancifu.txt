@@ -1,2309 +1,4844 @@
 #separator:Semicolon
 #html:false
-#columns:Traditional;Simplified;Reading;Definition
+#columns:Traditional;Reading;Definition;Simplified
 #notetype:Chinese (Trad and Simp)
 #deck:tianguancifu
-一事;;yi1shi4;"NOUN
-, topo. related (organizationally/professionally); belonging to the same organization See also ²shì"
-一方;;yi1fang1;"NOUN
+一事;yi1shi4;"NOUN
+
+, topo. related (organizationally/professionally); belonging to the same organization See also ²shì";
+一方;yi1fang1;"NOUN
+
 1 area; region
-2 party (in a contract/etc.); one side"
-一臂之力;;yi1bi4zhi1li4;"NOUN
-a helping hand"
-上下;;shang4-xia4;"NOUN
+
+2 party (in a contract/etc.); one side";
+一臂之力;yi1bi4zhi1li4;"NOUN
+
+a helping hand";
+上下;shang4-xia4;"NOUN
+
  
----
+
+<hr style='width: 30%'>
+
 ATTRIBUTIVE
+
 1 above and below; up and down
+
 2 superior and inferior; ruler and subject; high and low; senior and junior
+
 3 old and young
+
 4 heaven and earth  AUX. about; more or less 這輛車在一千塊錢上下。 Zhèi ³liàng chē zài yī̠qiān ²kuài ²qián shàng-xià. This car costs about one thousand yuán.
----
+
+<hr style='width: 30%'>
+
 VERB
-go up or down"
-與;与;"yu3; yu4";"yu3
+
+go up or down";
+下場;xia4chang5;"NOUN
+
+1 end; consequence 這樣做沒有好下場。 Zhèyàng zuò méiyǒu hǎo xiàchang. No good will come of doing it this way.
+
+2 go to the playground
+
+<hr style='width: 30%'>
+
+VERB
+
+OBJECT CONSTRUCTION
+
+exit/leave the stage trad. take an examination See also xiàchǎng";下场
+與;"yu3; yu4";"yu3
 BOUND FORM
+
 1 give; offer in zèngyǔ
+
 2 commend; support; assist in yǔrénwéishàn
+
 3 get along with in ³yìyǔ
+
 4 wait
----
+
+<hr style='width: 30%'>
+
 COVERB
+
 with; to
----
+
+<hr style='width: 30%'>
+
 CONJUNCTION
+
 and; together with See also ¹⁹yú ¹⁰yù
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 yu4
 BOUND FORM
-participate in cānyù , yùhuì , ¹yùzhèng See also ¹⁹yú ¹yǔ ⁹yù"
-與否;与否;yu3fou3;"SUFFIX
-whether or not (placed at end of sentence) 同意與否, 他都要去。 Tóngyì yụ̌fǒu, tā dōu yào qù. He will go, whether or not permitted."
-專門;专门;zhuan1men2;"STATIC VERB
+
+participate in cānyù , yùhuì , ¹yùzhèng See also ¹⁹yú ¹yǔ ⁹yù";与
+與否;yu3fou3;"SUFFIX
+
+whether or not (placed at end of sentence) 同意與否, 他都要去。 Tóngyì yụ̌fǒu, tā dōu yào qù. He will go, whether or not permitted.";与否
+專門;zhuan1men2;"STATIC VERB
+
 1 special; specialized 他專門找我的麻煩。 Tā zhuānmén zhạ̌o wǒ de máfan. He specially looks for trouble for me.
-2 technical"
-世;;shi4;"BOUND FORM
+
+2 technical";专门
+世;shi4;"BOUND FORM
+
 1 generation in ²yīshì
+
 2 life; lifetime
+
 3 age; era; epoch in ³jìnshì
+
 4 world in ¹shìjiè
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname"
-世人;;shi4ren2;"NOUN
-common people; people of the world; everyone"
-世家;;shi4jia1;"NOUN
+
+Surname";
+世人;shi4ren2;"NOUN
+
+common people; people of the world; everyone";
+世家;shi4jia1;"NOUN
+
 1 aristocratic family 他世家出身。 Tā shìjiā chūshēn. He comes from an aristocratic family.
-2 family influential for generations"
-丟盡;丢尽;diu1jin4;"R.VERB
-lose all"
-義;义;yi4;"BOUND FORM
+
+2 family influential for generations";
+世間;shi4jian1;"PLACE WORD
+
+earth; world";世间
+丟盡;diu1jin4;"R.VERB
+
+lose all";丢尽
+嚴查;yan2cha2;verb check strictly;严查
+喪心;sang4xin1;"VERB
+
+OBJECT CONSTRUCTION
+
+1 lose one's head
+
+2 quail";丧心
+義;yi4;"BOUND FORM
+
 1 justice; righteousness in ¹zhèngyì
+
 2 chivalry; sense of honor in yìqi
+
 3 meaning; significance in ¹yìyì , ³zìyì
+
 4 human ties; relationship in ³qíngyì
+
 5 adopted; adoptive in yìzǐ , yìnǚ
+
 6 artificial; false in yìchǐ
-7 volunteer in ¹yìwù"
-為此;为此;wei4ci3;"VERB
+
+7 volunteer in ¹yìwù";义
+為此;wei4ci3;"VERB
+
 PHRASE
-to this end; for this reason/purpose; in this connection 我為此感到興奮。 Wǒ wèicǐ gǎndào xīngfèn. I feel excited about it."
-之;;zhi1;"wr
----
+
+to this end; for this reason/purpose; in this connection 我為此感到興奮。 Wǒ wèicǐ gǎndào xīngfèn. I feel excited about it.";为此
+之;zhi1;"wr
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
-1 A ∼ B in a B relationship to A a 三天之內 sān tiān zhīnèi within three days b 回家之前 huíjiā zhī qián before returning home c 鐘鼓之聲 zhōnggǔ zhī shēng the sound of bells and drums
-2 A ∼lèi/liú A and the like 希特勒之流 Xītèlè zhīliú Hitler and his like
-3 ... ∼ SV so SV that ... a 天氣之冷, 連屋子裡的水都結冰了。 Tiānqì zhī lěng, lián wūzi lǐ de shuǐ dōu jiébīng le. The weather was so cold that even the water in the room froze. b 得意之極 déyì zhījí be very pleased with oneself
----
+
+1 A ∼ B in a B relationship to A
+	a 三天之內 sān tiān zhīnèi within three days
+	b 回家之前 huíjiā zhī qián before returning home
+	c 鐘鼓之聲 zhōnggǔ zhī shēng the sound of bells and drums
+
+2 A ∼lèi/liú A and the like
+	希特勒之流 Xītèlè zhīliú Hitler and his like
+
+3 ... ∼ SV so SV that ... a 天氣之冷, 連屋子裡的水都結冰了。 Tiānqì zhī lěng, lián wūzi lǐ de shuǐ dōu jiébīng le. The weather was so cold that even the water in the room froze.
+	b 得意之極 déyì zhījí be very pleased with oneself
+
+<hr style='width: 30%'>
+
 PRONOUN
-(used only in object position) it; him; her; this 諾之 nuò zhī promise it/her/him
----
+
+(used only in object position) it; him; her; this
+	諾之 nuò zhī promise it/her/him
+
+<hr style='width: 30%'>
+
 VERB
-go; leave 不知所之 bù zhī suǒ zhī don't know where (he) went
----
+
+go; leave
+	不知所之 bù zhī suǒ zhī don't know where (he) went
+
+<hr style='width: 30%'>
+
 BOUND FORM
-this 之子 Zhī zǐ this person"
-乎;;hu1;"NOMINAL MEASURE WORD
+
+this
+	之子 Zhī zǐ this person";
+乎;hu1;"NOMINAL MEASURE WORD
+
 . , wr. (expressing interrogation/surmise/surprise/admiration)
----
+
+<hr style='width: 30%'>
+
 SUFFIX
-(forming adverbs) 幾乎 jīhū nearly
----
+
+(forming adverbs)
+	幾乎 jīhū nearly
+
+<hr style='width: 30%'>
+
 COVERB
-to; at; with; than"
-樂;乐;le4;"VERB
+
+to; at; with; than";
+樂;le4;"VERB
+
 1 be glad to; enjoy 我心裡樂開了花。 Wǒ xīnli lèkāile huā. My heart burst with joy.
+
 2 topo. laugh; be amused
----
+
+<hr style='width: 30%'>
+
 STATIC VERB
+
 happy; joyful
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname (not the same name as Yuè) See also ⁵yuè"
-買;买;mai3;"VERB
+
+Surname (not the same name as Yuè) See also ⁵yuè";乐
+買;mai3;"VERB
+
 1 buy; purchase
-2 hire"
-亂;乱;luan4;"STATIC VERB
+
+2 hire";买
+亂;luan4;"STATIC VERB
+
 1 in disorder/confusion 你的房間太亂了。 Nǐ de fángjiān tài luàn le. Your room is too messy.
+
 2 confused; in a turmoil
+
 3 indiscriminate; random; arbitrary
----
+
+<hr style='width: 30%'>
+
 VERB
+
 confuse; mix up; jumble 帳亂了。 Zhàng luàn le. The accounts are messed up.
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 rashly; carelessly
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 disorder; upheaval; chaos
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
-promiscuous sexual behavior in yínluàn"
-亂葬崗;乱葬岗;luan4zang4gang3;"NOUN
+
+promiscuous sexual behavior in yínluàn";乱
+亂葬崗;luan4zang4gang3;"NOUN
+
 unmarked common graves
-M: ⁴zuò / 座"
-了無;了无;liao3wu2;"verb literary not at all; not the least (or slightest) 了無懼色 liǎo wú jùsè show no trace of fear; look completely undaunted 了無生趣 liǎowúshēngqù lose all interest in life"
-予;;yu3;"BOUND FORM
-give in yụ̌yǐ See also ⁵yú"
-於;于;yu2;"COVERB
+
+M: ⁴zuò / 座";乱葬岗
+了無;liao3wu2;"verb literary not at all; not the least (or slightest)
+	了無懼色 liǎo wú jùsè show no trace of fear; look completely undaunted
+	了無生趣 liǎowúshēngqù lose all interest in life";了无
+予;yu3;"BOUND FORM
+
+give in yụ̌yǐ See also ⁵yú";
+於;yu2;"COVERB
+
  
----
+
+<hr style='width: 30%'>
+
 SUFFIX
+
 1 in; at; to; from; out of; by 她生於1970年。 ²Tā shēngyú
+
 1970 nián. She was born in
+
 1970. 他見笑於大眾。 Tā jiànxiào yú dàzhòng. He was scorned by the masses.
-2 than 人民的利益高於一切。 Rénmín de lìyì gāoyú yị̄qiè. The interests of the people stand higher than anything else. See also ⁹wū ¹Yú"
-些;;xie1;"NOMINAL MEASURE WORD
+
+2 than 人民的利益高於一切。 Rénmín de lìyì gāoyú yị̄qiè. The interests of the people stand higher than anything else. See also ⁹wū ¹Yú";于
+些;xie1;"NOMINAL MEASURE WORD
+
 (for indefinite/small amount)
-1 添些水 tiān xiē shuǐ add a little water
-2 請早些來。 Qị̌ng zǎo xiē lái. Would you come a little earlier?"
-親;亲;qin1;"BOUND FORM
+
+1
+	添些水 tiān xiē shuǐ add a little water
+
+2 請早些來。 Qị̌ng zǎo xiē lái. Would you come a little earlier?";
+親;qin1;"BOUND FORM
+
 1 relatives in qīnqi
+
 2 parents in mǔqin
+
 3 marriage in qīnshì
+
 4 love very much; be very fond of in qīn'ài de
+
 5 personal in qīnzì
----
+
+<hr style='width: 30%'>
+
 VERB
+
 kiss
----
+
+<hr style='width: 30%'>
+
 STATIC VERB
-close; intimate; dear See also ³qìng"
-僅;仅;"jin3; jin3";"jin3
+
+close; intimate; dear See also ³qìng";亲
+僅;"jin3; jin3";"jin3
 ADVERB
+
 only; merely; barely
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 jin3
 ADVERB
-only; merely; barely"
-仙班;;xian1ban1;"NOUN
-scholars with a high literary degree"
-代;;dai4;"VERB
+
+only; merely; barely";仅
+仙班;xian1ban1;"NOUN
+
+scholars with a high literary degree";
+代;dai4;"VERB
+
 take the place of
----
+
+<hr style='width: 30%'>
+
 PREFIX
+
 acting
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
  
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 1 period in gǔdài
+
 2 generation 他家三代農民。 Tā jiā sān dài nóngmín. His family have been farmers for three generations. in ¹shàngdài
-3 dynasty in ¹cháodài"
-以及;;yi3ji2;"CONJUNCTION
-as well as; along with; and 請替我問候你的太太以及你的孩子。 Qǐng tì wǒ wènhòu nǐ de tàitai yǐjí nǐ de háizi. Please give my regards to your wife and children."
-伏;;fu2;"VERB
+
+3 dynasty in ¹cháodài";
+以及;yi3ji2;"CONJUNCTION
+
+as well as; along with; and 請替我問候你的太太以及你的孩子。 Qǐng tì wǒ wènhòu nǐ de tàitai yǐjí nǐ de háizi. Please give my regards to your wife and children.";
+伏;fu2;"VERB
+
 1 bend over; lie prostrate
+
 2 subside; go down
+
 3 hide; conceal
+
 4 subdue; tame
+
 5 admit (defeat/guilt)
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 1 hot summer days; dog days
+
 2 Surname
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
-volt"
-會心;会心;hui4xin1;"VERB
+
+volt";
+會心;hui4xin1;"VERB
+
 OBJECT CONSTRUCTION
+
 understand; know
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 1 understanding; knowing
-2 meeting of minds 他對我會心微笑。 Tā duì wǒ huìxīn wēixiào. He gave me an understanding smile."
-傳;传;chuan2;"VERB
+
+2 meeting of minds 他對我會心微笑。 Tā duì wǒ huìxīn wēixiào. He gave me an understanding smile.";会心
+傳;chuan2;"VERB
+
 1 pass (on); hand down 把經驗傳給下一代。 Bǎ jīngyàn chuán gěi xiàyị̄dài. Pass on the experience to the next generation.
+
 2 impart; teach
+
 3 spread
+
 4 infect; be contagious
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 transmit; conduct 金屬傳熱比塑料快。 Jīnshǔ chuánrè bǐ sùliào kuài. Metal conducts heat faster than plastic does. in chuándiàn
+
 2 summon
-3 convey; express in chuánqíng See also ³zhuàn"
-但;;dan4;"CONJUNCTION
+
+3 convey; express in chuánqíng See also ³zhuàn";传
+但;dan4;"CONJUNCTION
+
 but; yet; still; nevertheless 我想看電影, 但沒時間。 Wọ̌ xiǎng kàn diànyǐng, dàn méi shíjiān. I want to see a movie but don't have time.
----
+
+<hr style='width: 30%'>
+
 ADVERB
-only; merely"
-位列;;wei4lie4;to rank
-住;;zhu4;"VERB
+
+only; merely";
+位列;wei4lie4;to rank;
+住;zhu4;"VERB
+
 live; reside; stay 你住哪兒? Nǐ zhù nǎr? Where do you live?
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
-stop; cease in ³zhùshǒu , zhùkǒu  CMP. tightly; firmly 抓住 zhuāzhù grasp firmly 抓不住 zhuābuzhù unable to grasp"
-何;;he2;"PRONOUN
+
+stop; cease in ³zhùshǒu , zhùkǒu  CMP. tightly; firmly
+	抓住 zhuāzhù grasp firmly
+	抓不住 zhuābuzhù unable to grasp";
+何;he2;"PRONOUN
+
 what?; where?
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 why?; how?
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname"
-佳話;佳话;jia1hua4;"NOUN
-1 charming/much-told tale
-2 a deed worthy of widespread praise
-M: ge / duàn / 個 / 段"
-侍奉;;shi4feng4;"VERB
-, wr.
-1 attend upon; serve
-2 support and wait upon (one's elders)"
-依;;yi1;"VERB
-1 depend/count on
-2 comply with; agree; consent
----
-COVERB
-according to; judging by 依我看, 這件事兒能成功。 Yī wǒ kàn, zhè jiàn shìr néng chénggōng. In my opinion, this will be successful."
-依據;依据;yi1ju4;"CONJUNCTION
-according to; on the basis of; judging by 依據市場報告, 這種產品很好銷。 Yījù shìchǎng bàogào, zhèzhǒng chạ̌npǐn hẹ̌n hǎo ³xiāo. Judging by the market reports, this sort of product sells well.
----
-NOUN
-basis; foundation"
-便;;bian4;"ADVERB
-1 then; in that case
-2 as early/little as 他去年便進了大學。 Tā qùnián biàn jìnle dàxué. He actually entered the university last year.
----
-CONJUNCTION
-1 even if
-2 and then
----
-BOUND FORM
-1 convenient in fāngbiàn
-2 informal; plain in biànfàn
-3 convenience in suíbiàn “我可以走了嗎?”… “隨你的便。” “Wǒ kẹ̌yǐ zǒu le ma?” ... “Suí nǐ de biàn.” “May I leave now?” ... “Suit yourself.”
-4 relieve oneself; urine; excrement in ¹xiǎobiàn See also ¹pián"
-信徒;;xin4tu2;"NOUN
-believer; disciple
-M: ge / míng / ²wèi / 個 / 名 / 位"
-修煉;修炼;xiu1lian4;"VERB
-, rel. practice asceticism"
-俯瞰;;fu3kan4;"VERB
-look down at; overlook"
-倒;;"dao4; dao3; dao2";"dao4
-VERB
-1 invert; move backward; place upside down 往後倒。 Wǎng hòu dào. Back up a bit.
-2 pour 把垃圾倒了。 Bǎ lājī dào le. Please throw out the garbage.
----
+
+Surname";
+何等;he2deng3;"ATTRIBUTIVE
+
+what kind? How many? 你是何等人物! Nǐ shì héděng rénwù! What kind of person you are!
+
+<hr style='width: 30%'>
+
 ADVERB
-1 back; in reverse order
-2 actually; contrary to what was said/thought
----
+
+how ...!";
+佳話;jia1hua4;"NOUN
+
+1 charming/much-told tale
+
+2 a deed worthy of widespread praise
+
+M: ge / duàn / 個 / 段";佳话
+侍奉;shi4feng4;"VERB
+
+, wr.
+
+1 attend upon; serve
+
+2 support and wait upon (one's elders)";
+依;yi1;"VERB
+
+1 depend/count on
+
+2 comply with; agree; consent
+
+<hr style='width: 30%'>
+
+COVERB
+
+according to; judging by 依我看, 這件事兒能成功。 Yī wǒ kàn, zhè jiàn shìr néng chénggōng. In my opinion, this will be successful.";
+依據;yi1ju4;"CONJUNCTION
+
+according to; on the basis of; judging by 依據市場報告, 這種產品很好銷。 Yījù shìchǎng bàogào, zhèzhǒng chạ̌npǐn hẹ̌n hǎo ³xiāo. Judging by the market reports, this sort of product sells well.
+
+<hr style='width: 30%'>
+
+NOUN
+
+basis; foundation";依据
+便;bian4;"ADVERB
+
+1 then; in that case
+
+2 as early/little as 他去年便進了大學。 Tā qùnián biàn jìnle dàxué. He actually entered the university last year.
+
+<hr style='width: 30%'>
+
 CONJUNCTION
+
+1 even if
+
+2 and then
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 convenient in fāngbiàn
+
+2 informal; plain in biànfàn
+
+3 convenience in suíbiàn “我可以走了嗎?”… “隨你的便。” “Wǒ kẹ̌yǐ zǒu le ma?” ... “Suí nǐ de biàn.” “May I leave now?” ... “Suit yourself.”
+
+4 relieve oneself; urine; excrement in ¹xiǎobiàn See also ¹pián";
+信徒;xin4tu2;"NOUN
+
+believer; disciple
+
+M: ge / míng / ²wèi / 個 / 名 / 位";
+修士;xiu1shi4;"NOUN
+
+1 trad. a man of irreproachable conduct
+
+2 rel. brother; friar
+
+M: ge / míng / ²wèi / 個 / 名 / 位";
+修煉;xiu1lian4;"VERB
+
+, rel. practice asceticism";修炼
+俯瞰;fu3kan4;"VERB
+
+look down at; overlook";
+俱;ju4;"ADVERB
+
+completely; entirely";
+倒;"dao4; dao3; dao2";"dao4
+VERB
+
+1 invert; move backward; place upside down 往後倒。 Wǎng hòu dào. Back up a bit.
+
+2 pour 把垃圾倒了。 Bǎ lājī dào le. Please throw out the garbage.
+
+<hr style='width: 30%'>
+
+ADVERB
+
+1 back; in reverse order
+
+2 actually; contrary to what was said/thought
+
+<hr style='width: 30%'>
+
+CONJUNCTION
+
 but; still; nevertheless See also ²dáo ¹dǎo
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 dao3
 VERB
+
 1 fall over; topple 別一邊兒倒。 Bié yī̠biānr dǎo. Don't lean to one side.
+
 2 collapse
+
 3 become hoarse
+
 4 exchange; move around; shift 我們倒一下座位好嗎? Wǒmen dǎo yị̄xià zuòwèi hǎo ma? Do you mind changing seats with me?
+
 5 coll. make money doing business See also ²dáo ³dào
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 dao2
 BOUND FORM
-follow up in ²dáochi , dáogēn See also ¹dǎo ³dào"
-借;;jie4;"VERB
+
+follow up in ²dáochi , dáogēn See also ¹dǎo ³dào";
+借;jie4;"VERB
+
 1 borrow 我想跟你借點兒錢。 Wọ̌ xiǎng gēn nǐ jiè diǎnr qián. I'd like to borrow some money from you.
+
 2 lend 這本書能借我看看嗎? Zhèi běn shū néng jiè wǒ kànkan ma? Can you lend me the book?
+
 3 make use of; take advantage of (an opportunity/etc.)
+
 4 use as a pretext
----
+
+<hr style='width: 30%'>
+
 CONJUNCTION
+
 if; supposing
----
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
-∼ A zhī ¹biàn take advantage of the convenient fact that A"
-做主;;zuo4zhu3;"VERB
+
+∼ A zhī ¹biàn take advantage of the convenient fact that A";
+做主;zuo4zhu3;"VERB
+
 OBJECT CONSTRUCTION
+
 1 make the decision; decide 這事你能做主嗎? Zhè ²shì nǐ néng zuòzhǔ ma? Can you make the decision on this?
+
 2 take charge of 我們家由我做主。 Wǒmen jiā yóu wǒ zuòzhǔ. I take charge of my family.
+
 3 back up; support 你可要替我做主啊。 Nị̌ kě yào tì wǒ zuòzhǔ a. You must support me.
-4 be the host"
-償;偿;chang2;"BOUND FORM
+
+4 be the host";
+償;chang2;"BOUND FORM
+
 1 repay; compensate for in bǔcháng
-2 fulfill in rúyuànyǐcháng"
-蘭;兰;lan2;"NOUN
+
+2 fulfill in rúyuànyǐcháng";偿
+元;yuan2;"BOUND FORM
+
+1 first; primary in Yuándàn
+
+2 basic; fundamental in ¹yuánsù , ²yuányīn
+
+3 chief; principal in ¹yuánshǒu
+
+4 old; eminent in yuánlǎo
+
+5 vital state; vitality in ¹yuánqì
+
+6 phil. origin
+
+<hr style='width: 30%'>
+
+NOUN
+
+1 Yuan dynasty
+
+2 Surname See also ²yuán";
+蘭;lan2;"NOUN
+
 1 orchid
+
 2 fragrance
-3 moral excellence"
-其;;qi2;"wr
----
+
+3 moral excellence";兰
+其;qi2;"wr
+
+<hr style='width: 30%'>
+
 PRONOUN
+
 his; her; its; their; he; she; it; that; such
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 . (marking question, emphasis, imperative)
----
+
+<hr style='width: 30%'>
+
 SUFFIX
-(used for reasons of euphony or as an empty suffix in expansion of one-syllable component to a two-syllable component) 極其微小 (極小) jíqí wēixiǎo (jí xiǎo) diminutive (forming adverbs) 尤其 yóuqí particularly See also ³³jī"
-具;;ju4;"BOUND FORM
+
+(used for reasons of euphony or as an empty suffix in expansion of one-syllable component to a two-syllable component) 極其微小 (極小) jíqí wēixiǎo (jí xiǎo) diminutive (forming adverbs)
+	尤其 yóuqí particularly See also ³³jī";
+具;ju4;"BOUND FORM
+
 1 utensil; tool; implement in ¹gōngjù
+
 2 talent in cáijù
----
+
+<hr style='width: 30%'>
+
 VERB
+
 1 possess; have
+
 2 provide; furnish
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 (for tools/corpses)
----
+
+<hr style='width: 30%'>
+
 ADVERB
-fully; completely"
-具體;具体;ju4ti3;"STATIC VERB
-concrete; specific; particular 請具體說說事故發生的過程。 Qǐng jùtǐ shuō shuō shìgù fāshēng de guòchéng. Please give a detailed account of the accident."
-養;养;yang3;"VERB
+
+fully; completely";
+具體;ju4ti3;"STATIC VERB
+
+concrete; specific; particular 請具體說說事故發生的過程。 Qǐng jùtǐ shuō shuō shìgù fāshēng de guòchéng. Please give a detailed account of the accident.";具体
+養;yang3;"VERB
+
 1 support; provide for 全家人靠他一個人養。 Quánjiā rén kào tā yị̄ ge rén yǎng. The whole family relies on him alone.
+
 2 raise; maintain 我養了一條小狗。 Wọ̌ yǎngle yī̠ tiáo xiạ̌o gǒu. I have a little dog.
+
 3 give birth to
+
 4 form; cultivate
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 rest; recuperate in yǎngbìng
-2 foster; adoptive in yạ̌ngzǐ , yạ̌ngnǚ"
-最;;zui4;"ADVERB
-most; superlatively 這個考試最難。 Zhège kǎoshì zuì ²nán. This test is the most difficult."
-準確;准确;zhun3que4;"STATIC VERB
-accurate; exact; precise 新項目還需要準確的數據。 Xīn xiàngmù hái xūyào zhǔnquè de shùjù. The new project needs more accurate data."
-凌;;ling2;"NOUN
+
+2 foster; adoptive in yạ̌ngzǐ , yạ̌ngnǚ";养
+獸;shou4;"BOUND FORM
+
+1 beast; wild animal in yěshòu
+
+2 beastly; crude; uncivilized in ²shòuxíng";兽
+最;zui4;"ADVERB
+
+most; superlatively 這個考試最難。 Zhège kǎoshì zuì ²nán. This test is the most difficult.";
+準確;zhun3que4;"STATIC VERB
+
+accurate; exact; precise 新項目還需要準確的數據。 Xīn xiàngmù hái xūyào zhǔnquè de shùjù. The new project needs more accurate data.";准确
+凌;ling2;"NOUN
+
 1 ice
+
 2 Surname
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 insult; maltreat; bully in qīlíng
+
 2 soar in língyún
+
 3 just before in língchén
-4 intrude; traverse"
-凌辱;;ling2ru3;"VERB
+
+4 intrude; traverse";
+凌辱;ling2ru3;"VERB
+
 1 insult; humiliate
-2 assault a woman"
-幾;几;ji1;"ADVERB
+
+2 assault a woman";
+幾;ji1;"ADVERB
+
 , wr. nearly
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
-in jīhū See also ¹⁷jī ¹jǐ"
-幾乎;几乎;ji1hu1;"ADVERB
-almost; nearly"
-凡;;fan2;"BOUND FORM
+
+in jīhū See also ¹⁷jī ¹jǐ";几
+幾乎;ji1hu1;"ADVERB
+
+almost; nearly";几乎
+凡;fan2;"BOUND FORM
+
 1 commonplace; ordinary in píngfán
+
 2 this mortal world in ¹fánrén
+
 3 outline in ¹fánlì
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 1 every; any; all
+
 2 altogether 全書凡五卷。 Quán shū fán wǔ juàn. The work has five volumes in all.
----
+
+<hr style='width: 30%'>
+
 NOUN
-a note of the scale in gōngchěpǔ"
-凡事;;fan2shi4;"NOUN
-everything 你們凡事小心點。 Nǐmen fánshì xiǎoxīn diǎn. You should be careful in all things."
-凡間;凡间;fan2jian1;"NOUN
-this world"
-劈;;"pi1; pi3";"pi1
+
+a note of the scale in gōngchěpǔ";
+凡事;fan2shi4;"NOUN
+
+everything 你們凡事小心點。 Nǐmen fánshì xiǎoxīn diǎn. You should be careful in all things.";
+凡間;fan2jian1;"NOUN
+
+this world";凡间
+劈;"pi1; pi3";"pi1
 VERB
+
 1 chop; cleave
+
 2 strike (of lightning)
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 , phy. wedge
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 right against (one's face/etc.) in ¹pīmiàn See also ²pǐ
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 pi3
 VERB
+
 1 divide; split
+
 2 break/strip off
-3 injure one's legs/fingers by opening them too wide See also ³pī"
-辦;办;ban4;"VERB
-1 do; handle; manage 辦入學手續 Bàn rùxué shǒuxù go through admission procedures
-2 set up; run 辦工廠 Bàn gōngchǎng run a factory
+
+3 injure one's legs/fingers by opening them too wide See also ³pī";
+辦;ban4;"VERB
+
+1 do; handle; manage
+	辦入學手續 Bàn rùxué shǒuxù go through admission procedures
+
+2 set up; run
+	辦工廠 Bàn gōngchǎng run a factory
+
 3 buy a fair amount of
-4 punish (by law); beat up 這事兒一定要嚴辦。 Zhè shìr yị̄dìng yào ⁴yán bàn. This must be dealt with severely."
-功;;gong1;"NOUN
+
+4 punish (by law); beat up 這事兒一定要嚴辦。 Zhè shìr yị̄dìng yào ⁴yán bàn. This must be dealt with severely.";办
+功;gong1;"NOUN
+
 meritorious service; exploit
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 achievement; result; effect in chénggōng
-2 skill in ²gōngfu"
-功德;;gong1de2;"NOUN
+
+2 skill in ²gōngfu";
+功德;gong1de2;"NOUN
+
 1 merits and virtues
-2 charitable deed; benefaction"
-助;;zhu4;"VERB
-help; assist; aid"
-劫;;jie2;"wr.  
----
+
+2 charitable deed; benefaction";
+助;zhu4;"VERB
+
+help; assist; aid";
+劫;jie2;"wr.  
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 rob; plunder; raid in ¹qiǎngjié
+
 2 coerce; compel in jiéchí
-3 disaster; misfortune in ¹hàojié"
-匆匆;;cong1cong1;"REDUPLICATED FORM
+
+3 disaster; misfortune in ¹hàojié";
+匆匆;cong1cong1;"REDUPLICATED FORM
+
 1 hurriedly
-2 obviously; apparently"
-化;;"hua4; hua1";"hua4
+
+2 obviously; apparently";
+化;"hua4; hua1";"hua4
 VERB
+
 1 change; transform; convert
+
 2 melt; dissolve; thaw 雪化了。 Xuě huà le. The snow has melted.
+
 3 digest; remove
+
 4 burn up; incinerate
+
 5 disguise
+
 6 rel. die; pass away
----
+
+<hr style='width: 30%'>
+
 SUFFIX
+
 -ize
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 culture in ¹wénhuà
+
 2 chemistry in ¹huàxué
----
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
+
 ∼ A wéi B convert/change/turn A into B
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 hua1
 NOUN
+
 1 flower; blossom
+
 M: ²duǒ / 朵
+
 2 pattern; design
+
 3 fireworks
+
 4 wound 他掛了花。 Tā guàle huā. He was wounded in action.
+
 5 smallpox
+
 6 Surname
+
 7 courtesan; prostitute
+
 8 essence; cream
----
+
+<hr style='width: 30%'>
+
 VERB
+
 1 spend; expend
+
 2 (slang) be horny; womanize
----
+
+<hr style='width: 30%'>
+
 STATIC VERB
+
 1 flowery; florid
+
 2 profligate
+
 3 blurred
+
 4 false
-5 randy; lecherous"
-十分;;shi2fen1;"ADVERB
+
+5 randy; lecherous";
+十分;shi2fen1;"ADVERB
+
 very; fully; utterly; extremely 我十分佩服你的勇氣。 Wǒ shífēn pèifu nǐ de yǒngqì. I greatly admire your courage.
----
+
+<hr style='width: 30%'>
+
 NOUN
-ten points"
-十惡不赦;十恶不赦;shi2e4bu4she4;"FIXED EXPRESSION
-wicked beyond redemption; heinous 不要憐憫這個十惡不赦的罪犯。 Bụ̀yào liánmǐn zhège shí'èbụ̀shè de zuìfàn. Don't have pity on this horrid criminal."
-升;;sheng1;"VERB
+
+ten points";
+十惡不赦;shi2e4bu4she4;"FIXED EXPRESSION
+
+wicked beyond redemption; heinous 不要憐憫這個十惡不赦的罪犯。 Bụ̀yào liánmǐn zhège shí'èbụ̀shè de zuìfàn. Don't have pity on this horrid criminal.";十恶不赦
+升;sheng1;"VERB
+
 1 rise; hoist; ascend
+
 2 promote
----
+
+<hr style='width: 30%'>
+
 NOUN
-name of one of the Sixty-four Hexagrams (䷭) See also ⁴shēng"
-華;华;hua2;"BOUND FORM
+
+name of one of the Sixty-four Hexagrams (䷭) See also ⁴shēng";
+華;hua2;"BOUND FORM
+
 1 glory; splendor in guānghuá
+
 2 essence in ¹jīnghuá
+
 3 China in Huáběi
+
 4 gray (of hair) in huáfà
----
+
+<hr style='width: 30%'>
+
 ATTRIBUTIVE
-, court. , wr. your See also Huà"
-華章;华章;hua2zhang1;"FIXED EXPRESSION
-, court. your beautiful/brilliant writing/work"
-博;;bo2;"BOUND FORM
+
+, court. , wr. your See also Huà";华
+華章;hua2zhang1;"FIXED EXPRESSION
+
+, court. your beautiful/brilliant writing/work";华章
+博;bo2;"BOUND FORM
+
 abundant; plentiful in bó'ài , bódà
----
+
+<hr style='width: 30%'>
+
 VERB
-win; gain"
-衛;卫;wei4;"BOUND FORM
+
+win; gain";
+衛;wei4;"BOUND FORM
+
 1 guard; defend in ¹bǎowèi , wèibīng
+
 2 protect (against disease) in wèishēng
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname"
-即;;ji2;"VERB
+
+Surname";卫
+即;ji2;"VERB
+
 1 approach; reach; be near
+
 2 assume; undertake
+
 3 wr. be; mean
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 prompted by the occasion in jíjǐngshēngqíng
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 1 at present; in the immediate future; then
+
 2 wr. promptly; at once
+
 3 namely
----
+
+<hr style='width: 30%'>
+
 CONJUNCTION
-even though/if"
-卻;却;que4;"ADVERB
+
+even though/if";
+卻;que4;"ADVERB
+
 1 but; yet
+
 2 indeed 原來卻是他。 Yuánlái què shì tā. It's him after all.
-3 now (in storytelling) 卻說 Quèshuō Now the story goes ...
-4 just 卻夠 Què gòu just enough
----
+
+3 now (in storytelling)
+	卻說 Quèshuō Now the story goes ...
+
+4 just
+	卻夠 Què gòu just enough
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 step back; retreat in quèbù
+
 2 drive back; repulse in quèdí
+
 3 reject; refuse in tuīquè
----
+
+<hr style='width: 30%'>
+
 CONJUNCTION
+
 however; but
----
+
+<hr style='width: 30%'>
+
 SUFFIX
-(indicating completion/totality)"
-厲;厉;li4;"BOUND FORM
+
+(indicating completion/totality)";却
+厲;li4;"BOUND FORM
+
 1 harsh; severe; serious in ¹yánlì
+
 2 oppressive; cruel in lìhai
+
 3 evil
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname"
-厲鬼;厉鬼;li4gui3;"NOUN
+
+Surname";厉
+厲鬼;li4gui3;"NOUN
+
 1 ferocious ghost
+
 2 evil spirit
-M: ge / míng / 個 / 名"
-厭;厌;yan4;"VERB
-1 detest; loathe in ¹yànwù
-2 be disgusted/bored with 每天做同樣的事, 我都厭了。 Měitiān zuò tóngyàng de ²shì, wǒ dōu yàn le. I'm bored with the same work everyday. in yànfán
-3 be surfeited/satiated in tāndéwúyàn See also ¹¹yān"
-厭惡;厌恶;yan4wu4;"VERB
-detest; be disgusted with 我非常厭惡他的行為。 Wǒ fēicháng yànwù tā de xíngwéi. I'm disgusted at his behavior."
-反;;fan3;"VERB
-1 turn over
-2 return; counter
-3 revolt; rebel
-4 oppose; combat
----
-BOUND FORM
- | CMP. upside down; inside out; in the reverse direction 裝反了 zhuāngfǎnle installed the wrong way
----
-BOUND FORM
-counterrevolutionaries; reactionaries in fǎngémìng fènzǐ
----
-ADVERB
-on the contrary; instead See also ⁶bǎn"
-反噬;;fan3shi4;"VERB
-, wr.
-1 make false countercharge
-2 accuse one's benefactor falsely"
-受;;shou4;"VERB
-1 receive; accept
-2 endure; suffer; be subjected to
-3 topo. be pleasant 受聽 Shòutīng pleasant to listen to"
-古國;古国;gu3guo2;"NOUN
-country with a long history
-M: ge / ⁴zuò / 個 / 座"
-叫;;jiao4;"VERB
-1 cry; shout
-2 call; greet
-3 hire; order
-4 name; call 我叫張琳。 Wǒ jiào Zhāng Lín. My name is Lin Zhang.
-5 cause; make a 風能叫船走。 Fēng néng jiào chuán zǒu. The wind can make the ship go. b 主任叫他去開會。 Zhǔrèn jiào tā qù kāihuì. The director wants him to go to the meeting.
----
-PREFIX
-, topo. male (of certain farm animals) in jiàolǘ , jiàojī
----
-COVERB
-by (in passive cons.) 我叫他打了。 Wǒ jiào tā dǎ le. I was beaten by him."
-召;;zhao4;"VERB
-1 call; convene; summon
-2 solicit; recruit
----
-NOUN
-temple; monastery (used chiefly in Inner Mongolia)"
-各自;;ge4zi4;"PRONOUN
-1 each; respective 請大家先各自回家。 Qǐng dàjiā xiān gèzì huíjiā. Please return home for now.
-2 coll. oneself"
-同;;tong2;"BOUND FORM
-1 same; similar in xiāngtóng , bùtóng
-2 together; in common in gòngtóng
-3 harmony; concord
----
-VERB
-be the same as
----
-COVERB
-with See also ³tòng"
-同官;;tong2guan1;"NOUN
-fellow functionaries"
-後;后;hou4;"BOUND FORM
-1 rear; back; behind in hòumiàn
-2 afterwards; later in hòulái
-3 later in sequence in hòutiān
----
-NOUN
-offspring; descendant; posterior
----
-PREFIX
-post- See also ²hòu"
-君;;jun1;"wr.  
----
-NOUN
-1 monarch; sovereign; supreme ruler
-2 gentleman; sir"
-吹拉彈唱;吹拉弹唱;chui1-la1-tan2-chang4;well-known phrase blow, bow, pluck, and sing—be very musical 吹拉彈唱他樣樣都會。 Chuī lā tán chàng tā yàngyàng dōu huì. He plays every instrument of the band and sings as well.
-吾;;wu2;"PRONOUN
-, wr. (first person pronoun, usually nominative or genitive use) I; my; we; our"
-告;;gao4;"BOUND FORM
-1 tell; inform; explain in gàosu
-2 ask for; request
-3 make known; state clearly; announce
----
-VERB
-accuse; sue 咱們去法院告他! Zánmen qù fǎyuàn gào tā! Let's sue him! See also ⁹gù"
-告狀;告状;gao4zhuang4;"VERB
+
+M: ge / míng / 個 / 名";厉鬼
+壓頂;ya1ding3;"VERB
+
 OBJECT CONSTRUCTION
-1 (law) sue sb.
-2 complain to sb.'s superior about sb. 惡人先告狀。 Èrén xiān gàozhuàng. The guilty party always complains first."
-咬;;yao3;"VERB
-1 bite; snap at
-2 bark
-3 incriminate sb. else (usu. falsely)
-4 pronounce distinctly
-5 be nitpicking (about use of words)
-6 topo. corrode (metals); irritate (the skin)"
-咬碎;;yao3sui4;"R.VERB
-bite into pieces"
-咳;;ke2;"VERB
-cough See also ¹hāi"
-唾;;tuo4;"BOUND FORM
-saliva in tuòmo , kétuò"
-唾罵;唾骂;tuo4ma4;"VERB
-spit on and curse; revile 人們唾罵政府的腐敗。 Rénmen tuòmà zhèngfǔ de fǔbài. People revile the corruption of the government."
-噬;;shi4;"BOUND FORM
-bite in shìjūntǐ , ²bóshì"
-回;;hui2;"VERB
-1 circle; wind
-2 answer; reply
-3 refuse; decline 去回了他。 Qù huíle tā. Go and refuse him.
-4 return; go back
-5 turn around
-6 trad. report back
----
-NOMINAL MEASURE WORD
-1 chapter
-2 times
----
+
+1 cover the sky with dark clouds
+
+2 coll. occupy a height
+
+3 weigh heavily on one
+
+<hr style='width: 30%'>
+
 NOUN
-1 Muslim
-2 Hui ethnic minority"
-因;;yin1;"CONJUNCTION
-because; as 老師因生病今天不能來上課。 Lǎoshī yīn shēngbìng jīntiān bùnéng lái shàngkè. The teacher can't teach his class today because of illness.
----
+
+rooftop";压顶
+厭;yan4;"VERB
+
+1 detest; loathe in ¹yànwù
+
+2 be disgusted/bored with 每天做同樣的事, 我都厭了。 Měitiān zuò tóngyàng de ²shì, wǒ dōu yàn le. I'm bored with the same work everyday. in yànfán
+
+3 be surfeited/satiated in tāndéwúyàn See also ¹¹yān";厌
+厭惡;yan4wu4;"VERB
+
+detest; be disgusted with 我非常厭惡他的行為。 Wǒ fēicháng yànwù tā de xíngwéi. I'm disgusted at his behavior.";厌恶
+反;fan3;"VERB
+
+1 turn over
+
+2 return; counter
+
+3 revolt; rebel
+
+4 oppose; combat
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+ | CMP. upside down; inside out; in the reverse direction
+	裝反了 zhuāngfǎnle installed the wrong way
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+counterrevolutionaries; reactionaries in fǎngémìng fènzǐ
+
+<hr style='width: 30%'>
+
+ADVERB
+
+on the contrary; instead See also ⁶bǎn";
+反噬;fan3shi4;"VERB
+
+, wr.
+
+1 make false countercharge
+
+2 accuse one's benefactor falsely";
+受;shou4;"VERB
+
+1 receive; accept
+
+2 endure; suffer; be subjected to
+
+3 topo. be pleasant
+	受聽 Shòutīng pleasant to listen to";
+古國;gu3guo2;"NOUN
+
+country with a long history
+
+M: ge / ⁴zuò / 個 / 座";古国
+叫;jiao4;"VERB
+
+1 cry; shout
+
+2 call; greet
+
+3 hire; order
+
+4 name; call 我叫張琳。 Wǒ jiào Zhāng Lín. My name is Lin Zhang.
+
+5 cause; make a 風能叫船走。 Fēng néng jiào chuán zǒu. The wind can make the ship go. b 主任叫他去開會。 Zhǔrèn jiào tā qù kāihuì. The director wants him to go to the meeting.
+
+<hr style='width: 30%'>
+
+PREFIX
+
+, topo. male (of certain farm animals) in jiàolǘ , jiàojī
+
+<hr style='width: 30%'>
+
 COVERB
-, wr. on the basis of; on account of
----
-BOUND FORM
-1 cause; reason in ¹yuányīn
-2 carry on; continue in yīnxún
-3 rely on; accord with
----
+
+by (in passive cons.) 我叫他打了。 Wǒ jiào tā dǎ le. I was beaten by him.";
+召;zhao4;"VERB
+
+1 call; convene; summon
+
+2 solicit; recruit
+
+<hr style='width: 30%'>
+
+NOUN
+
+temple; monastery (used chiefly in Inner Mongolia)";
+召喚;zhao4huan4;"VERB
+
+call; summon";召唤
+各;ge4;"PRONOUN
+
+each; every; different
+
+<hr style='width: 30%'>
+
+ADVERB
+
+separately; differently
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
-∼ A ér V to V because of A 因病而逝 Yīn bìng ér shì die because of illness"
-壇;坛;tan2;"NOUN
-1 altar
-2 forum
-3 circles
-4 raised plot of land See also ⁶tán"
-罈;坛;tan2;"BOUND FORM
-jar in ¹tánzi See also ⁵tán"
-墜落;坠落;zhui4luo4;"VERB
-fall; drop 他的車從橋上墜落下去。 Tā de chē cóng qiáo shang zhuìluò xiàqu. His car dropped from the bridge."
-垂;;chui2;"VERB
- 
----
-BOUND FORM
-1 hang down; droop; let fall
-2 bequeath to posterity; hand down
-3 near; approach
-4 condescend"
-垂愛;垂爱;chui2ai4;"VERB
-provide tender care"
-城;;cheng2;"NOUN
-1 wall
-2 city wall
-3 city; town"
-城牆;城墙;cheng2qiang2;"NOUN
-city wall
-M: dǔ / 堵"
-處;处;"chu3; chu4";"chu3
+
+1 ∼ V ∼ (de) individually
+	各唱各的調 Gè chàng gè de diào each sings his own tune
+
+2 ∼ V1 suǒ SV/V2 each V1's that whic
+
+<hr style='width: 30%'>
+
+STATIC VERB
+
+V2
+	a 各有所好 each has his likes (and dislikes)
+	b 各避所短 Gè ³bì suọ̌ duǎn each avoids its shortcomings See also ⁵gě";
+各地;ge4di4;"NOUN
+
+various places/localities 錄像機各地都有賣。 Lùxiàngjī gèdì dōu yǒu mài. Video cameras are available everywhere.";
+各自;ge4zi4;"PRONOUN
+
+1 each; respective 請大家先各自回家。 Qǐng dàjiā xiān gèzì huíjiā. Please return home for now.
+
+2 coll. oneself";
+同;tong2;"BOUND FORM
+
+1 same; similar in xiāngtóng , bùtóng
+
+2 together; in common in gòngtóng
+
+3 harmony; concord
+
+<hr style='width: 30%'>
+
 VERB
+
+be the same as
+
+<hr style='width: 30%'>
+
+COVERB
+
+with See also ³tòng";
+同官;tong2guan1;"NOUN
+
+fellow functionaries";
+後;hou4;"BOUND FORM
+
+1 rear; back; behind in hòumiàn
+
+2 afterwards; later in hòulái
+
+3 later in sequence in hòutiān
+
+<hr style='width: 30%'>
+
+NOUN
+
+offspring; descendant; posterior
+
+<hr style='width: 30%'>
+
+PREFIX
+
+post- See also ²hòu";后
+君;jun1;"wr.  
+
+<hr style='width: 30%'>
+
+NOUN
+
+1 monarch; sovereign; supreme ruler
+
+2 gentleman; sir";
+否則;fou3ze2;"CONJUNCTION
+
+otherwise; if not; or else 你還是去吧, 否則開會的人更少了。 Nǐ háishi qù ba, fǒuzé kāihuì de rén gèng shǎo le. You had better go; otherwise the participants at the meeting will be even fewer.";否则
+吹拉彈唱;chui1-la1-tan2-chang4;well-known phrase blow, bow, pluck, and sing—be very musical 吹拉彈唱他樣樣都會。 Chuī lā tán chàng tā yàngyàng dōu huì. He plays every instrument of the band and sings as well.;吹拉弹唱
+吾;wu2;"PRONOUN
+
+, wr. (first person pronoun, usually nominative or genitive use) I; my; we; our";
+告;gao4;"BOUND FORM
+
+1 tell; inform; explain in gàosu
+
+2 ask for; request
+
+3 make known; state clearly; announce
+
+<hr style='width: 30%'>
+
+VERB
+
+accuse; sue 咱們去法院告他! Zánmen qù fǎyuàn gào tā! Let's sue him! See also ⁹gù";
+告狀;gao4zhuang4;"VERB
+
+OBJECT CONSTRUCTION
+
+1 (law) sue sb.
+
+2 complain to sb.'s superior about sb. 惡人先告狀。 Èrén xiān gàozhuàng. The guilty party always complains first.";告状
+咬;yao3;"VERB
+
+1 bite; snap at
+
+2 bark
+
+3 incriminate sb. else (usu. falsely)
+
+4 pronounce distinctly
+
+5 be nitpicking (about use of words)
+
+6 topo. corrode (metals); irritate (the skin)";
+咬碎;yao3sui4;"R.VERB
+
+bite into pieces";
+咳;ke2;"VERB
+
+cough See also ¹hāi";
+唾;tuo4;"BOUND FORM
+
+saliva in tuòmo , kétuò";
+唾罵;tuo4ma4;"VERB
+
+spit on and curse; revile 人們唾罵政府的腐敗。 Rénmen tuòmà zhèngfǔ de fǔbài. People revile the corruption of the government.";唾骂
+器;qi4;"BOUND FORM
+
+1 vessel; utensil; ware in ¹cíqì
+
+2 instrument in ¹qìjù
+
+3 weapon in wǔqì
+
+4 organ (of the body) in ¹qìguān
+
+5 talent; aptitude in dàqìwǎnchéng";
+噬;shi4;"BOUND FORM
+
+bite in shìjūntǐ , ²bóshì";
+回;hui2;"VERB
+
+1 circle; wind
+
+2 answer; reply
+
+3 refuse; decline 去回了他。 Qù huíle tā. Go and refuse him.
+
+4 return; go back
+
+5 turn around
+
+6 trad. report back
+
+<hr style='width: 30%'>
+
+NOMINAL MEASURE WORD
+
+1 chapter
+
+2 times
+
+<hr style='width: 30%'>
+
+NOUN
+
+1 Muslim
+
+2 Hui ethnic minority";
+因;yin1;"CONJUNCTION
+
+because; as 老師因生病今天不能來上課。 Lǎoshī yīn shēngbìng jīntiān bùnéng lái shàngkè. The teacher can't teach his class today because of illness.
+
+<hr style='width: 30%'>
+
+COVERB
+
+, wr. on the basis of; on account of
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 cause; reason in ¹yuányīn
+
+2 carry on; continue in yīnxún
+
+3 rely on; accord with
+
+<hr style='width: 30%'>
+
+CONSTRUCTION
+
+∼ A ér V to V because of A
+	因病而逝 Yīn bìng ér shì die because of illness";
+圍剿;wei2jiao3;"VERB
+
+encircle and suppress";围剿
+壇;tan2;"NOUN
+
+1 altar
+
+2 forum
+
+3 circles
+
+4 raised plot of land See also ⁶tán";坛
+罈;tan2;"BOUND FORM
+
+jar in ¹tánzi See also ⁵tán";坛
+墜落;zhui4luo4;"VERB
+
+fall; drop 他的車從橋上墜落下去。 Tā de chē cóng qiáo shang zhuìluò xiàqu. His car dropped from the bridge.";坠落
+垂;chui2;"VERB
+
+ 
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 hang down; droop; let fall
+
+2 bequeath to posterity; hand down
+
+3 near; approach
+
+4 condescend";
+垂愛;chui2ai4;"VERB
+
+provide tender care";垂爱
+城;cheng2;"NOUN
+
+1 wall
+
+2 city wall
+
+3 city; town";
+城牆;cheng2qiang2;"NOUN
+
+city wall
+
+M: dǔ / 堵";城墙
+處;"chu3; chu4";"chu3
+VERB
+
 1 get along (with sb.) 我和同事們處得很好。 Wǒ hé tóngshìmen chǔ de hẹ̌n hǎo. I get along with my colleagues.
+
 2 be situated in; be in a certain condition
+
 3 manage; handle; deal with
+
 4 punish; sentence
+
 5 dwell; live See also ¹chù
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 chu4
 BOUND FORM
+
 1 place in gèchù
+
 2 part; point in chángchu
+
 3 department; office in jiàowùchù
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
-(for homesteads) See also ¹chǔ"
-夙願;夙愿;su4yuan4;"NOUN
-long-cherished wish"
-多謝;多谢;duo1xie4;"INTJ. many thanks; thanks a lot 多謝你的關照。 Duōxiè nǐ de guānzhào. Thank you for taking care of me."
-大義滅親;大义灭亲;da4yi4mie4qin1;"FIXED EXPRESSION
-uphold righteousness above one's family"
-天地;;tian1di4;"NOUN
+
+(for homesteads) See also ¹chǔ";处
+備;bei4;"VERB
+
+prepare; get ready
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 be equipped with in zhuāngbèi
+
+2 provide against in bèizhàn
+
+<hr style='width: 30%'>
+
+ADVERB
+
+fully";备
+復;fu4;"BOUND FORM
+
+turn around/over
+
+<hr style='width: 30%'>
+
+VERB
+
+1 wr. answer 王先生的信已復。 Wáng xiānsheng de xìn ²yǐ fù. I have answered Mr. Wang's letter.
+
+2 recover; restore
+
+3 avenge
+
+<hr style='width: 30%'>
+
+ADVERB
+
+again
+
+<hr style='width: 30%'>
+
+NOUN
+
+name of one of the Sixty-four Hexagrams (䷗) See also ⁶fù";复
+複;fu4;"BOUND FORM
+
+1 compound; complex in ²fùxìng
+
+2 lg. plural; poly-
+
+3 duplicate in ²fùběn See also ⁵fù";复
+復位;fu4wei4;"VERB
+
+OBJECT CONSTRUCTION
+
+1 med. reset a dislocation (of a shoulder/etc.)
+
+2 regain one's power
+
+3 be restored to the throne
+
+<hr style='width: 30%'>
+
+NOUN
+
+reset";复位
+復活;fu4huo2;"VERB
+
+come back to life; be revived
+
+<hr style='width: 30%'>
+
+NOUN
+
+, rel. resurrection";复活
+夙願;su4yuan4;"NOUN
+
+long-cherished wish";夙愿
+多謝;duo1xie4;"INTJ. many thanks; thanks a lot 多謝你的關照。 Duōxiè nǐ de guānzhào. Thank you for taking care of me.";多谢
+大義滅親;da4yi4mie4qin1;"FIXED EXPRESSION
+
+uphold righteousness above one's family";大义灭亲
+天地;tian1di4;"NOUN
+
 1 heaven and earth; universe
+
 2 scope of operation 我們要開創新天地。 Wǒmen yào kāichuàng xīn tiāndì. We must expand to a new realm.
+
 3 art. blank space at the top/bottom of a picture
+
 4 a world of difference
-5 social status/condition"
-天庭;;tian1ting2;"NOUN
-middle of the forehead"
-天界;;tian1jie4;"NOUN
-heaven"
-夷;;yi2;"BOUND FORM
+
+5 social status/condition";
+天庭;tian1ting2;"NOUN
+
+middle of the forehead";
+天界;tian1jie4;"NOUN
+
+heaven";
+頭陣;tou2zhen4;"NOUN
+
+1 first battle
+
+2 beginning of anything";头阵
+夷;yi2;"BOUND FORM
+
 1 wr. level; smooth in yíwéipíngdì
+
 2 safe and sound in huàxiǎnwéiyí
+
 3 calm; contented
+
 4 raze
+
 5 exterminate in yímiè
+
 6 hist. “barbarian” tribes, esp. in the east in yídí
-7 trad. foreign country; foreigner in ³yíqíng"
-奇男子;;qi2nan2zi3;"NOUN
-a remarkable man"
-如雲;如云;ru2yun2;"VERB
+
+7 trad. foreign country; foreigner in ³yíqíng";
+奪;duo2;"VERB
+
+1 take by force; seize; wrest 把罪犯手裡的槍奪下來。 Bǎ zuìfàn shọ̌u lǐ de qiāng duó xiàlai. Take the gun from the criminal.
+
+2 force one's way
+
+3 contend for
+
+4 deprive
+
+<hr style='width: 30%'>
+
+NOUN
+
+, wr.
+
+1 decision
+
+2 omission (in text)";夺
+奇男子;qi2nan2zi3;"NOUN
+
+a remarkable man";
+如雲;ru2yun2;"VERB
+
 PHRASE
+
 1 cloudlike
-2 many; full"
-如何;;ru2he2;"ADVERB
+
+2 many; full";如云
+如何;ru2he2;"ADVERB
+
 how
----
+
+<hr style='width: 30%'>
+
 VERB
+
 PHRASE
-how about it 我們明天去如何? Wǒmen míngtiān qù rúhé? How about going tomorrow?"
-如同;;ru2tong2;"VERB
-like; similar to 她們兩人如同親姐妹。 Tāmen liǎng rén rútóng qīn jiěmèi. The two of them are like sisters."
-如此;;ru2ci3;"VERB
+
+how about it 我們明天去如何? Wǒmen míngtiān qù rúhé? How about going tomorrow?";
+如同;ru2tong2;"VERB
+
+like; similar to 她們兩人如同親姐妹。 Tāmen liǎng rén rútóng qīn jiěmèi. The two of them are like sisters.";
+如此;ru2ci3;"VERB
+
 PHRASE
-thus; like this; such 我認為如此。 Wǒ rènwéi rúcǐ. I think so."
-姑;;gu1;"NOUN
+
+thus; like this; such 我認為如此。 Wǒ rènwéi rúcǐ. I think so.";
+妖邪;yao1xie2;"ATTRIBUTIVE
+
+weird; wicked; monstrous";
+姑;gu1;"NOUN
+
 1 father's sister
+
 2 husband's sister
+
 3 wr. husband's mother
+
 4 nun
----
+
+<hr style='width: 30%'>
+
 ADVERB
-, wr. tentatively; for the time being"
-孤;;gu1;"BOUND FORM
+
+, wr. tentatively; for the time being";
+孤;gu1;"BOUND FORM
+
 1 orphaned in gū'ér
+
 2 solitary; isolated; alone in ¹gūdú
----
+
+<hr style='width: 30%'>
+
 PRONOUN
-, hist. I; me (the emperor/prince)"
-害;;hai4;"VERB
+
+, hist. I; me (the emperor/prince)";
+害;hai4;"VERB
+
 1 harm; injure; cause trouble
+
 2 kill
+
 3 contract an illness
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 disaster; harm; evil
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
-harmful in hàichu , yùhài"
-害怕;;hai4pa4;"VERB
-be afraid/scared 沒有什麼可害怕的。 Méiyǒu shénme kě hàipà de. There is nothing to be afraid of."
-家慈;;jia1ci2;"NOUN
-, humb. my mother"
-容;;rong2;"VERB
+
+harmful in hàichu , yùhài";
+害怕;hai4pa4;"VERB
+
+be afraid/scared 沒有什麼可害怕的。 Méiyǒu shénme kě hàipà de. There is nothing to be afraid of.";
+家慈;jia1ci2;"NOUN
+
+, humb. my mother";
+容;rong2;"VERB
+
 1 contain 這個電梯只能容十個人。 Zhèige diàntī zhǐ néng róng shí ge rén. This elevator can hold only ten people.
+
 2 allow; tolerate 容我說幾句行嗎? Róng wǒ shuō jǐ jù xíng ma? Would you let me say a few words?
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 looks; appearance 她笑容滿面。 Tā xiàoróngmǎnmiàn. She's all smiles.
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 Surname
----
+
+<hr style='width: 30%'>
+
 ADVERB
-, wr. perhaps; probably"
-寂;;ji4;"BOUND FORM
-quiet; lonely in ¹jìmò , ²chénjì"
-對;对;dui4;"VERB
+
+, wr. perhaps; probably";
+寂;ji4;"BOUND FORM
+
+quiet; lonely in ¹jìmò , ²chénjì";
+對;dui4;"VERB
+
 1 answer; reply
+
 2 treat
+
 3 be trained on
+
 4 suit; agree
+
 5 compare; check
+
 6 set; adjust 大家對一下表。 Dàjiā duì yị̄xià biǎo. Let's set our watches.
+
 7 mix; add
+
 8 divide into halves
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 mutual in xiāngduì
+
 2 opposite in duìfāng
----
+
+<hr style='width: 30%'>
+
 STATIC VERB
+
 right; correct
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 (for pairs/couples)
----
+
+<hr style='width: 30%'>
+
 COVERB
+
 by
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 couplet
----
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
+
 1 ∼ ... ér yán said in terms of ...
-2 ∼ ... lái shuō as regards ..."
-將;将;"jiang1; jiang4";"jiang1
+
+2 ∼ ... lái shuō as regards ...";对
+將;"jiang1; jiang4";"jiang1
 VERB
+
 1 wr. take
+
 2 wr. handle
+
 3 checkmate
----
+
+<hr style='width: 30%'>
+
 COVERB
+
 (introducing object of main verb) 將門關上。 Jiāng mén guānshang. Close the door.
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 1 about to; will soon
-2 partly ... partly ... 將信將疑 Jiāngxìnjiāngyí half believing, half doubting See also ⁴jiàng ⁶qiāng
-===
+
+2 partly ... partly ...
+	將信將疑 Jiāngxìnjiāngyí half believing, half doubting See also ⁴jiàng ⁶qiāng
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 jiang4
 NOUN
+
 1 commander-in-chief
+
 2 chess piece corresponding to the king (usu. black) See also ²shuài
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 general in shàngjiàng
----
+
+<hr style='width: 30%'>
+
 VERB
-, wr. command; lead See also ¹jiāng ⁶qiāng"
-將軍;将军;jiang1jun5;"NOUN
+
+, wr. command; lead See also ¹jiāng ⁶qiāng";将
+將軍;jiang1jun5;"NOUN
+
 1 general
+
 2 high-rank officer
-M: ge / míng / ²wèi / 個 / 名 / 位 See also jiāngjūn"
-少時;少时;shao3shi2;"NOUN
+
+M: ge / míng / ²wèi / 個 / 名 /
+	位 See also jiāngjūn";将军
+少時;shao3shi2;"NOUN
+
 1 a moment later
-2 when (one is) young See also shàoshí"
-盡數;尽数;jin4shu4;"ADVERB
-totally; wholly"
-屆時;届时;jie4shi2;"ADVERB
-at the appointed time; on the occasion 屆時我們將發表一篇聲明。 Jièshí wǒmen jiāng fābiǎo yī̠ piān shēngmíng. We'll publish a statement at that time."
-豈有此理;岂有此理;qi3you3ci3li3;"INTJ. What kind of reasoning is that?; Nonsense!"
-崗;岗;gang3;"NOUN
+
+2 when (one is) young See also shàoshí";少时
+屍;shi1;"BOUND FORM
+
+corpse in ¹shītǐ , shīshou
+
+<hr style='width: 30%'>
+
+NOUN
+
+person representing the spirit of the dead person during sacrifices (usu. a child)";尸
+盡數;jin4shu4;"ADVERB
+
+totally; wholly";尽数
+屆時;jie4shi2;"ADVERB
+
+at the appointed time; on the occasion 屆時我們將發表一篇聲明。 Jièshí wǒmen jiāng fābiǎo yī̠ piān shēngmíng. We'll publish a statement at that time.";届时
+豈有此理;qi3you3ci3li3;"INTJ. What kind of reasoning is that?; Nonsense!";岂有此理
+崗;gang3;"NOUN
+
 1 hillock; mound
+
 M: ge / ⁴zuò / 個 / 座
+
 2 ridge; welt; wale
-3 sentry; post See also ⁷gāng ⁴gàng"
-巢;;chao2;"NOUN
+
+3 sentry; post See also ⁷gāng ⁴gàng";岗
+巢;chao2;"NOUN
+
 1 nest; lair
-2 Surname"
-己;;ji3;"BOUND FORM
+
+2 Surname";
+己;ji3;"BOUND FORM
+
 oneself in ¹zìjǐ
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 6th of the
-10 Heavenly Stems"
-市井;;shi4jing3;"PLACE WORD
-, wr. marketplace; town"
-市井徒;;shi4jing3tu2;"NOUN
-, derog. the common herd"
-簾;帘;lian2;"BOUND FORM
-curtain in chuānglián See also ¹¹lián"
-帝君;;di4jun1;"NOUN
+
+10 Heavenly Stems";
+市井;shi4jing3;"PLACE WORD
+
+, wr. marketplace; town";
+市井徒;shi4jing3tu2;"NOUN
+
+, derog. the common herd";
+簾;lian2;"BOUND FORM
+
+curtain in chuānglián See also ¹¹lián";帘
+帝君;di4jun1;"NOUN
+
 1 emperor; monarch
-2 a title of reverence added to the names of gods"
-幕;;mu4;"NOUN
+
+2 a title of reverence added to the names of gods";
+幕;mu4;"NOUN
+
 1 curtain; screen; tent
+
 2 hist. office of a commanding general
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
-, thea. act"
-幸好;;xing4hao3;"FIXED EXPRESSION
-fortunately; luckily 幸好我帶著信用卡。 Xìnghǎo wǒ dàizhe xìnyòngkǎ. Luckily I've taken the credit card."
-序;;xu4;"NOUN
+
+, thea. act";
+幸好;xing4hao3;"FIXED EXPRESSION
+
+fortunately; luckily 幸好我帶著信用卡。 Xìnghǎo wǒ dàizhe xìnyòngkǎ. Luckily I've taken the credit card.";
+么蛾子;yao1e2zi5;"See yāo'
+
+<hr style='width: 30%'>
+
+NOUN
+
+, coll.
+
+1 lousy idea; bad suggestion
+
+2 unpopular suggestion; unpleasant development";幺蛾子
+序;xu4;"NOUN
+
 preface 請您給這本書寫篇序。 Qǐng nín gěi zhè běn shū xiě piān xù. Could you please write a preface for this book?
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 introductory; initial in ²xùmù
+
 2 order; sequence in ¹cìxù , ¹zhìxù 按字母為序 àn zìmǔ wéi xù in alphabetical sequence
+
 3 arrange in order in ¹xùcì
-4 trad. village school in xiángxù"
-應;应;ying4;"BOUND FORM
+
+4 trad. village school in xiángxù";
+應;ying4;"BOUND FORM
+
 1 respond in xiǎngyìng , ¹xiāngyìng
+
 2 consent; comply in dāying , yìngnuò
+
 3 adapt to in yìngjǐng
+
 4 cope/deal with in yìngfu
-5 apply; applied in yìngyòng , yìngyòng kēxué See also ¹yīng"
-庶;;shu4;"BOUND FORM
+
+5 apply; applied in yìngyòng , yìngyòng kēxué See also ¹yīng";应
+庶;shu4;"BOUND FORM
+
 1 numerous; multitudinous in ²shùwù , ⁴fùshù
-2 of a concubine in shùchū"
-庶出;;shu4chu1;"VERB
-be born of a concubine"
-庸;;yong1;"BOUND FORM
-commonplace; mediocre in yōngsú , píngyōng"
-開始;开始;kai1shi3;"VERB
+
+2 of a concubine in shùchū";
+庶出;shu4chu1;"VERB
+
+be born of a concubine";
+庸;yong1;"BOUND FORM
+
+commonplace; mediocre in yōngsú , píngyōng";
+開始;kai1shi3;"VERB
+
 begin; start 咱們開始幹吧。 Zánmen kāishǐ gàn ba. Let's get down to work.
----
+
+<hr style='width: 30%'>
+
 NOUN
-initial stage; beginning"
-開設;开设;kai1she4;"VERB
-open (shop/etc.); offer (course/etc.) 教授們開設了很多新課。 Jiàoshòumen kāishèle hěn duō xīn kè. The professors are offering many new courses."
-弄;;nong4;"VERB
+
+initial stage; beginning";开始
+開設;kai1she4;"VERB
+
+open (shop/etc.); offer (course/etc.) 教授們開設了很多新課。 Jiàoshòumen kāishèle hěn duō xīn kè. The professors are offering many new courses.";开设
+異;yi4;"BOUND FORM
+
+1 different in yì-tóng , chāyì
+
+2 strange; unusual in ¹qíyì
+
+3 other; another in ²yìwèi
+
+4 foreign (place) in yìguó , ¹yìxiāng
+
+5 disloyal in yìxīn
+
+6 separate in líyì
+
+7 feel surprised in chàyì
+
+8 treat specially";异
+弄;nong4;"VERB
+
 1 play with
+
 2 make; do; handle; engage in 你弄這個, 我弄那個。 Nǐ nòng zhèige, wǒ nòng nèige. You see to this and I'll see to that. 他把孩子弄哭了。 Tā bǎ háizi nòng kū le. He made the baby cry.
+
 3 obtain; get; fetch 給我弄張票, 好嗎? Gẹ̌i wǒ nòng zhāng piào, hǎo ma? Would you get me a ticket?
-4 play tricks See also lòng"
-引;;yin3;"VERB
+
+4 play tricks See also lòng";
+引;yin3;"VERB
+
 lead; guide
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 draw; pull; stretch in qiānyǐn
+
 2 cause; make in yǐnfā
+
 3 seduce in yǐnyòu
+
 4 quote; cite in yǐnshù
-5 leave 引避 Yǐnbì avoid; make way for
+
+5 leave
+	引避 Yǐnbì avoid; make way for
+
 6 induce
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 introduction; preface
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 , trad.
+
 1 (of length (33
+
 1/3 meters))
-2 (of units of salt certificates)"
-彌補;弥补;mi2bu3;"VERB
-make up; remedy; make good 這損失是無法彌補的。 Zhè sǔnshī shì wúfǎ míbǔ de. There is no way of making up the loss."
-弱點;弱点;ruo4dian3;"NOUN
-weak point; weakness; failing 我知道自己的弱點。 Wǒ zhīdao zìjǐ de ruòdiǎn. I know my weaknesses."
-歸;归;gui1;"VERB
+
+2 (of units of salt certificates)";
+彌補;mi2bu3;"VERB
+
+make up; remedy; make good 這損失是無法彌補的。 Zhè sǔnshī shì wúfǎ míbǔ de. There is no way of making up the loss.";弥补
+弱點;ruo4dian3;"NOUN
+
+weak point; weakness; failing 我知道自己的弱點。 Wǒ zhīdao zìjǐ de ruòdiǎn. I know my weaknesses.";弱点
+歸;gui1;"VERB
+
 1 go back to; return
+
 2 return sth. to
+
 3 come together
+
 4 put in sb.'s charge
+
 5 belong
+
 6 wr. marry
+
 7 rel. take refuge (in Buddha/etc.)
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 1 Surname
+
 2 division on abacus
----
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
-V ∼ V despite V 批評歸批評, 他從來不聽。 pīpíng guī pīpíng, tā cónglái bù tīng. Despite repeated criticism, he wouldn't listen. 說歸說, 做歸做。 Shuō guī shuō, zuò guī zuò. Talking is one thing, doing is another."
-歸於;归于;gui1yu2;"VERB
+
+V ∼ V despite V 批評歸批評, 他從來不聽。 pīpíng guī pīpíng, tā cónglái bù tīng. Despite repeated criticism, he wouldn't listen. 說歸說, 做歸做。 Shuō guī shuō, zuò guī zuò. Talking is one thing, doing is another.";归
+歸於;gui1yu2;"VERB
+
 PHRASE
+
 1 belong to; be attributed to
-2 result/end in"
-當年;当年;"dang1nian2; dang4nian2";"dang1nian2
+
+2 result/end in";归于
+當初;dang1chu1;"NOUN
+
+at first; originally 當初, 這只是一個小店。 Dāngchū, zhè zhǐshì yị̄ ge xiǎodiàn. At first, this was only a small shop.";当初
+當年;"dang1nian2; dang4nian2";"dang1nian2
 NOUN
+
 1 that year; those years 當年我住在那裡。 Dāngnián wǒ zhù zài nàli. I lived there those years.
+
 2 bygone years
+
 3 prime of life See also dàngnián
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 dang4nian2
 NOUN
-the same year; that very year See also dāngnián"
-彩;;cai3;"BOUND FORM
+
+the same year; that very year See also dāngnián";当年
+彩;cai3;"BOUND FORM
+
 1 color; colors in combination in wụ̌cǎi
+
 2 brilliance; splendor in jīngcǎi
+
 3 prize in tóucǎi
-4 blood from a wound in guàcǎi"
-徹底;彻底;che4di3;"ADVERB
+
+4 blood from a wound in guàcǎi";
+徹底;che4di3;"ADVERB
+
 thorough(going) 要徹底改掉你的壞習慣。 Yào chèdǐ gǎidiào nǐ de huài xíguàn. You must thoroughly change your bad habits.
----
+
+<hr style='width: 30%'>
+
 STATIC VERB
-be able to see the bottom of; get to the bottom of"
-徒;;tu2;"BOUND FORM
+
+be able to see the bottom of; get to the bottom of";彻底
+徒;tu2;"BOUND FORM
+
 1 disciple; pupil; apprentice in túdi
+
 2 follower in xìntú
+
 3 derog. person; fellow in jiǔtú
+
 4 (prison) sentence; imprisonment in ²túxíng
+
 5 go on foot in túbù
+
 6 bare; empty in ¹túshǒu , túyǒuxūmíng
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 1 merely; only
-2 in vain; to no purpose"
-得;;de2;"VERB
+
+2 in vain; to no purpose";
+得;de2;"VERB
+
 1 get
+
 2 result in
+
 3 be fit/proper
+
 4 be satisfied
-5 be finished 得了, 別說了。 Déle, bié shuō le. OK! OK! That's enough. See also ³de děi"
-得了;;"de2le5; de2liao3";"de2le5
+
+5 be finished 得了, 別說了。 Déle, bié shuō le. OK! OK! That's enough. See also ³de děi";
+得了;"de2le5; de2liao3";"de2le5
 INTJ. Stop it! Hold it! Enough!
----
+
+<hr style='width: 30%'>
+
 FIXED EXPRESSION
+
 1 done; finished 飯得了。 Fàn déle. Food's done/cooked.
+
 2 and be done with it 你走得了, 剩下的事(兒)我幹。 Nị̌ zǒu déle, shèngxia de shì wǒ gàn. You just go, and I'll finish the rest. See also déliǎo
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 de2liao3
 VERB
+
 PHRASE
-(used in rhetorical questions) really serious; awful 這還得了(嗎) ? Zhè hái déliǎo (ma) ? Isn't it awful? See also déle"
-得寸進尺;得寸进尺;de2cun4jin4chi3;ID. insatiable
-得罪;;de2zui5;"VERB
+
+(used in rhetorical questions) really serious; awful 這還得了(嗎) ? Zhè hái déliǎo (ma) ? Isn't it awful? See also déle";
+得寸進尺;de2cun4jin4chi3;ID. insatiable;得寸进尺
+得罪;de2zui5;"VERB
+
 1 offend; displease 誰把你得罪了? Shéi bạ̌ nǐ dézui le? Who's offended you?
-2 violate the law See also dézuì"
-心懷;心怀;xin1huai2;"VERB
+
+2 violate the law See also dézuì";
+心懷;xin1huai2;"VERB
+
 harbor; entertain; cherish
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 1 intention; purpose
-2 state of mind; mood"
-心說;心说;xin1shuo1;"VERB
-think to oneself"
-忘機;忘机;wang4ji1;"VERB
+
+2 state of mind; mood";心怀
+心說;xin1shuo1;"VERB
+
+think to oneself";心说
+忘機;wang4ji1;"VERB
+
 PHRASE
+
 , wr.
+
 1 carefree
-2 at peace with the world"
-念;;nian4;"VERB
+
+2 at peace with the world";忘机
+念;nian4;"VERB
+
 1 wr. think of; miss
+
 2 read aloud 這個字怎麼念? Zhèige zì zěnme niàn? How do you read this character?
+
 3 study; attend school 我念中學了。 Wǒ niàn zhōngxué le. I'm in middle school now.
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 thought; idea in niàntou
-2 care; remembrance in huáiniàn"
-憐;怜;lian2;"BOUND FORM
-sympathy; pity in kělián , liánxī"
-總歸;总归;zong3gui1;"ADVERB
-anyhow; eventually; after all 事實總歸是事實 。 Shìshí zǒngguī shì shìshí . After all, facts are facts."
-恭喜;;gong1xi3;"NOUN
- 
----
-FIXED EXPRESSION
-congratulations"
-惡;恶;e4;"NOUN
-evil
----
-STATIC VERB
-fierce See also ě ⁷wù"
-情;;qing2;"BOUND FORM
-1 sentiment; sensibility in gǎnqíng
-2 inclination; interest; affection in ¹qíngyì
-3 love; passion in àiqíng
-4 situation; circumstances; condition in qíngxing
-5 favor; kindness in rénqíng"
-情節;情节;qing2jie2;"NOUN
-1 plot; story; synopsis 這部電影情節複雜。 Zhè ²bù diànyǐng qíngjié fùzá. This film has a complicated plot.
-2 details; circumstances
-3 lg. situation"
-慘死;惨死;can3si3;"VERB
-die tragically"
-感懷;感怀;gan3huai2;"VERB
-recall with emotion
----
-NOUN
-reflections; thoughts"
-願;愿;yuan4;"AUX. willing to; want to
----
-BOUND FORM
-1 wish; desire in xīnyuàn
-2 wr. honest; sincere
-3 rel. vow"
-願意;愿意;yuan4yi5;"AUX.
-1 be willing
-2 wish; want 你願意就來吧。 Nǐ yuànyi jiù lái ba. You may come if you wish."
-慈;;ci2;"BOUND FORM
-compassionate; kind; loving in cí'ài
----
-NOUN
-, wr. my mother"
-慌;;"huang1; huang1";"huang1
-VERB
-lose self-possession; panic
----
-STATIC VERB
-flurried; frantic
----
+
+2 care; remembrance in huáiniàn";
+憐;lian2;"BOUND FORM
+
+sympathy; pity in kělián , liánxī";怜
+總;zong3;"BOUND FORM
+
+1 total; comprehensive; general; overall in ¹zǒngshù
+
+2 chief; head in zǒngjīnglǐ , zọ̌ngtǒng
+
+<hr style='width: 30%'>
+
 ADVERB
-frightfully 累得慌 lèi de huāng be dog-tired
-===
+
+1 always; invariably 你怎麼總遲到? Nị̌ zěnme zǒng chídào? Why are you always late?
+
+2 anyway; after all; inevitably; sooner or later
+
+3 surely; certainly
+
+4 at least
+
+<hr style='width: 30%'>
+
+VERB
+
+1 assemble; put together
+
+2 sum up";总
+總歸;zong3gui1;"ADVERB
+
+anyhow; eventually; after all 事實總歸是事實 。 Shìshí zǒngguī shì shìshí . After all, facts are facts.";总归
+恐怕;kong3pa4;"VERB
+
+fear  AUX.
+
+1 I'm afraid; I fear 恐怕太晚了。 Kǒngpà tài wǎn le. I'm afraid it's too late.
+
+2 perhaps; probably; maybe";
+恣意;zi4yi4;"ADVERB
+
+recklessly; willfully
+
+<hr style='width: 30%'>
+
+VERB
+
+PHRASE
+
+unscrupulous; unbridled";
+恭喜;gong1xi3;"NOUN
+
+ 
+
+<hr style='width: 30%'>
+
+FIXED EXPRESSION
+
+congratulations";
+惡;e4;"NOUN
+
+evil
+
+<hr style='width: 30%'>
+
+STATIC VERB
+
+fierce See also ě ⁷wù";恶
+情;qing2;"BOUND FORM
+
+1 sentiment; sensibility in gǎnqíng
+
+2 inclination; interest; affection in ¹qíngyì
+
+3 love; passion in àiqíng
+
+4 situation; circumstances; condition in qíngxing
+
+5 favor; kindness in rénqíng";
+情節;qing2jie2;"NOUN
+
+1 plot; story; synopsis 這部電影情節複雜。 Zhè ²bù diànyǐng qíngjié fùzá. This film has a complicated plot.
+
+2 details; circumstances
+
+3 lg. situation";情节
+慘死;can3si3;"VERB
+
+die tragically";惨死
+感懷;gan3huai2;"VERB
+
+recall with emotion
+
+<hr style='width: 30%'>
+
+NOUN
+
+reflections; thoughts";感怀
+願;yuan4;"AUX. willing to; want to
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 wish; desire in xīnyuàn
+
+2 wr. honest; sincere
+
+3 rel. vow";愿
+願意;yuan4yi5;"AUX.
+
+1 be willing
+
+2 wish; want 你願意就來吧。 Nǐ yuànyi jiù lái ba. You may come if you wish.";愿意
+慈;ci2;"BOUND FORM
+
+compassionate; kind; loving in cí'ài
+
+<hr style='width: 30%'>
+
+NOUN
+
+, wr. my mother";
+慌;"huang1; huang1";"huang1
+VERB
+
+lose self-possession; panic
+
+<hr style='width: 30%'>
+
+STATIC VERB
+
+flurried; frantic
+
+<hr style='width: 30%'>
+
+ADVERB
+
+frightfully
+	累得慌 lèi de huāng be dog-tired
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 huang1
 VERB
+
 lose self-possession; panic
----
+
+<hr style='width: 30%'>
+
 STATIC VERB
+
 flurried; frantic
----
+
+<hr style='width: 30%'>
+
 ADVERB
-frightfully 累得慌 lèi de huāng be dog-tired"
-慕;;mu4;"BOUND FORM
+
+frightfully
+	累得慌 lèi de huāng be dog-tired";
+慕;mu4;"BOUND FORM
+
 1 admire; esteem in ¹yǎngmù
-2 envy in xiànmù"
-成;;cheng2;"VERB
+
+2 envy in xiànmù";
+戎;rong2;"BOUND FORM
+
+weapons; military affairs in róngdí , bīngróng";
+成;cheng2;"VERB
+
 1 become; turn into
+
 2 accomplish; succeed 這事兒成了。 Zhè shìr chéng le. This matter has been accomplished.
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 achievement; result in ¹chéngjì
+
 2 fully developed/grown; mature in chéngshú
+
 3 established; ready-made in ¹xiànchéng
+
 4 capable; able
+
 5 in considerable number/amount in chéngpái , chéngqiānchéngwàn
+
 6 whole in chéngtiān
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 Surname
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 one tenth
----
+
+<hr style='width: 30%'>
+
 VERB
+
 be acceptable/all right 我不去不成。 Wǒ bụ̀ qù bù chéng. It won't do for me not to go.
----
+
+<hr style='width: 30%'>
+
 SUFFIX
--ation"
-成功;;cheng2gong1;"VERB
+
+-ation";
+成功;cheng2gong1;"VERB
+
 succeed
----
+
+<hr style='width: 30%'>
+
 NOUN
-success 祝你成功! Zhù nǐ chénggōng! Good luck!"
-所;;suo3;"SUFFIX
-1 place
-2 office; bureau; institute
----
-BOUND FORM
-that which in suọ̌yǐ , suọ̌yǒu , suǒwèi
----
-CONSTRUCTION
-1 ∼ V de that which 我所說的 (話) wǒ suǒ shuō de (huà) what I said
-2 bèi/wéi N ∼ V be V'd by N 他為賊所殺。 Tā wéi zéi suǒ shā. He was killed by bandits.
----
-NOMINAL MEASURE WORD
-(for houses)"
-擾;扰;rao3;"VERB
-1 disturb; bother
-2 harass; trouble
-3 court. trespass on sb.'s hospitality"
-扶搖;扶摇;fu2yao2;"NOUN
-, wr. cyclone; twister"
-批;;pi1;"VERB
-1 slap (sb.'s face)
-2 write comments on document
-3 comment; criticize; refute
-4 approve 你的申請批了嗎? Nǐ de shēnqǐng pī le ma? Has your application been approved?
----
-BOUND FORM
-1 buy/sell in large amounts in pīfā
-2 coll. cloth fibers not yet twisted in xiànpīr
----
-NOMINAL MEASURE WORD
-batch; lot 這批貨不合格。 Zhèi pī ²huò bù hégé. This batch of commodities doesn't meet the standard."
-報;报;bao4;"VERB
-1 report 報校長批准 Bào xiàozhǎng pīzhǔn report/submit sth. to the school principal for approval
-2 reply
-3 recompense
----
-NOUN
-1 newspaper
-2 periodical
-3 bulletin
-4 telegram"
-報復;报复;bao4fu5;"VERB
- 
----
-NOUN
-retaliate See also ³bàofù"
-報應;报应;bao4ying4;"NOUN
-, rel. retribution; judgment
----
-VERB
-recoil"
-擬;拟;ni3;"VERB
-1 draw up; draft
-2 intend; plan
----
-BOUND FORM
-imitate in nǐzuò
----
-PREFIX
-quasi-"
-據;据;ju4;"COVERB
-according to; on the grounds of 據他說… Jù tā shuō ... According to him ...
----
-BOUND FORM
-1 occupy; seize in ¹zhànjù
-2 rely/depend on in yījù
-3 evidence; certificate; proof in ¹zhèngjù See also ¹⁰jū"
-掀;;xian1;"VERB
-1 lift (a cover/etc.)
-2 surge; cause to surge"
-掉下;;diao4xia4;"R.VERB
-1 fall
-2 drop"
-推車;推车;tui1che1;"VERB
+
+success 祝你成功! Zhù nǐ chénggōng! Good luck!";
+成名;cheng2ming2;"VERB
+
 OBJECT CONSTRUCTION
-push a cart"
-撕咬;;si1yao3;"VERB
-bait; worry; harass"
-擿;;ti1;"BOUND FORM
-reveal in tīfú"
-收起;;shou1qi3;"R.VERB
-pack up; cut out; stop"
-敢;;gan3;"AUX. dare; have courage to 上課你敢問問題嗎? Shàngkè nị̌ gǎn wèn wèntí ma? Do you dare to ask questions in class?
----
-VERB
-have confidence to; be sure"
-鬥;斗;dou4;"VERB
-1 fight
-2 vie
-3 denounce
-4 purge
-5 make animals fight (as a game)
-6 topo. discuss; talk over; consult
-7 topo. fit together See also ³dǒu"
-新郎;;xin1lang2;"NOUN
-bridegroom
-M: ge / míng / ²wèi / 個 / 名 / 位"
-族;;zu2;"NOUN
-1 clan; race; tribe; group
-2 trad. family death penalty
-3 lg. family"
-既;;ji4;"ADVERB
-1 already
-2 then; later on
----
+
+become famous; make a name for oneself";
+所;suo3;"SUFFIX
+
+1 place
+
+2 office; bureau; institute
+
+<hr style='width: 30%'>
+
 BOUND FORM
-complete; full
----
+
+that which in suọ̌yǐ , suọ̌yǒu , suǒwèi
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
-1 ∼ A jiù B since/if A then B 既要上學, 就得做功課。 Jì yào shàngxué, jiù děi zuò gōngkè. If you want to attend school, you have to do homework.
-2 ∼ A yě/yòu/qiě B both A and B 既不實用, 又不美觀 Jì bù shíyòng, yòu bù měiguān neither useful nor attractive"
-早已;;zao3yi3;"VERB
-PHRASE
-1 long ago/since 他早已把我的話忘了。 Tā zạ̌oyǐ bạ̌ wǒ de huà wàng le. He's long since forgotten my words.
-2 already"
-時候;时候;shi2hou5;"NOUN
-1 (duration of) time
-2 (a point in) time; moment 到吃飯的時候了! Dào chīfàn de shíhou le! It's meal time now!"
-是否;;shi4-fou3;"FIXED EXPRESSION
-whether or not; is it so or not 不知他是否來。 Bùzhī tā shì-fǒu lái. I don't know if he's coming."
-暗;;an4;"STATIC VERB
-dark; dim; dull 這間屋子太暗。 Zhèi jiān wūzi tài àn. This room is too dark.
----
+
+1 ∼ V de that which 我所說的 (話) wǒ suǒ shuō de (huà) what I said
+
+2 bèi/wéi N ∼ V be V'd by N 他為賊所殺。 Tā wéi zéi suǒ shā. He was killed by bandits.
+
+<hr style='width: 30%'>
+
+NOMINAL MEASURE WORD
+
+(for houses)";
+擾;rao3;"VERB
+
+1 disturb; bother
+
+2 harass; trouble
+
+3 court. trespass on sb.'s hospitality";扰
+扶搖;fu2yao2;"NOUN
+
+, wr. cyclone; twister";扶摇
+批;pi1;"VERB
+
+1 slap (sb.'s face)
+
+2 write comments on document
+
+3 comment; criticize; refute
+
+4 approve 你的申請批了嗎? Nǐ de shēnqǐng pī le ma? Has your application been approved?
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
+1 buy/sell in large amounts in pīfā
+
+2 coll. cloth fibers not yet twisted in xiànpīr
+
+<hr style='width: 30%'>
+
+NOMINAL MEASURE WORD
+
+batch; lot 這批貨不合格。 Zhèi pī ²huò bù hégé. This batch of commodities doesn't meet the standard.";
+報;bao4;"VERB
+
+1 report
+	報校長批准 Bào xiàozhǎng pīzhǔn report/submit sth. to the school principal for approval
+
+2 reply
+
+3 recompense
+
+<hr style='width: 30%'>
+
+NOUN
+
+1 newspaper
+
+2 periodical
+
+3 bulletin
+
+4 telegram";报
+報復;bao4fu5;"VERB
+
+ 
+
+<hr style='width: 30%'>
+
+NOUN
+
+retaliate See also ³bàofù";报复
+報應;bao4ying4;"NOUN
+
+, rel. retribution; judgment
+
+<hr style='width: 30%'>
+
+VERB
+
+recoil";报应
+拜;bai4;"VERB
+
+1 do obeisance; salute
+
+2 acknowledge sb. as one's master/etc.
+	拜他為師 Bài tā wéi shī acknowledge him as one's teacher
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+make a courtesy call in bàifǎng See also ²bái";
+擬;ni3;"VERB
+
+1 draw up; draft
+
+2 intend; plan
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+imitate in nǐzuò
+
+<hr style='width: 30%'>
+
+PREFIX
+
+quasi-";拟
+擬定;ni3ding4;"VERB
+
+1 formulate 我們得擬定一年的工作計劃。 Wǒmen děi nǐdìng yī̠ nián de gōngzuò jìhuà. We must formulate a work plan for a year.
+
+2 conjecture";拟定
+據;ju4;"COVERB
+
+according to; on the grounds of 據他說… Jù tā shuō ... According to him ...
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 occupy; seize in ¹zhànjù
+
+2 rely/depend on in yījù
+
+3 evidence; certificate; proof in ¹zhèngjù See also ¹⁰jū";据
+掀;xian1;"VERB
+
+1 lift (a cover/etc.)
+
+2 surge; cause to surge";
+掉;diao4;"VERB
+
+1 drop; fall; come off
+
+2 lose; be missing 我的課本掉了一頁。 Wǒ de kèběn diàole yị̄ yè. One page has fallen out of my textbook.
+
+3 fall behind
+
+4 change
+
+5 turn  CMP. away; down; out; etc.
+	丟掉 diūdiào i. lose; ii. cast away
+	忘掉 wàngdiào forget
+	挖掉 wādiào dig up";
+掉下;diao4xia4;"R.VERB
+
+1 fall
+
+2 drop";
+推車;tui1che1;"VERB
+
+OBJECT CONSTRUCTION
+
+push a cart";推车
+搜集;sou1ji2;"VERB
+
+collect; gather 他正在搜集經濟信息。 Tā zhèngzài sōují jīngjì xìnxī. He's gathering the economic information.";
+撕咬;si1yao3;"VERB
+
+bait; worry; harass";
+擿;ti1;"BOUND FORM
+
+reveal in tīfú";
+收起;shou1qi3;"R.VERB
+
+pack up; cut out; stop";
+敢;gan3;"AUX. dare; have courage to 上課你敢問問題嗎? Shàngkè nị̌ gǎn wèn wèntí ma? Do you dare to ask questions in class?
+
+<hr style='width: 30%'>
+
+VERB
+
+have confidence to; be sure";
+鬥;dou4;"VERB
+
+1 fight
+
+2 vie
+
+3 denounce
+
+4 purge
+
+5 make animals fight (as a game)
+
+6 topo. discuss; talk over; consult
+
+7 topo. fit together See also ³dǒu";斗
+新郎;xin1lang2;"NOUN
+
+bridegroom
+
+M: ge / míng / ²wèi / 個 / 名 / 位";
+族;zu2;"NOUN
+
+1 clan; race; tribe; group
+
+2 trad. family death penalty
+
+3 lg. family";
+無限;wu2xian4;"ATTRIBUTIVE
+
+1 infinite; limitless
+
+2 lg. indefinite";无限
+既;ji4;"ADVERB
+
+1 already
+
+2 then; later on
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+complete; full
+
+<hr style='width: 30%'>
+
+CONSTRUCTION
+
+1 ∼ A jiù B since/if A then B 既要上學, 就得做功課。 Jì yào shàngxué, jiù děi zuò gōngkè. If you want to attend school, you have to do homework.
+
+2 ∼ A yě/yòu/qiě B both A and B 既不實用,
+	又不美觀 Jì bù shíyòng, yòu bù měiguān neither useful nor attractive";
+旦;dan4;"NOUN
+
+1 wr. dawn; daybreak
+
+2 day; morning
+
+3 (opera) female role";
+早已;zao3yi3;"VERB
+
+PHRASE
+
+1 long ago/since 他早已把我的話忘了。 Tā zạ̌oyǐ bạ̌ wǒ de huà wàng le. He's long since forgotten my words.
+
+2 already";
+時候;shi2hou5;"NOUN
+
+1 (duration of) time
+
+2 (a point in) time; moment 到吃飯的時候了! Dào chīfàn de shíhou le! It's meal time now!";时候
+是否;shi4-fou3;"FIXED EXPRESSION
+
+whether or not; is it so or not 不知他是否來。 Bùzhī tā shì-fǒu lái. I don't know if he's coming.";
+暗;an4;"STATIC VERB
+
+dark; dim; dull 這間屋子太暗。 Zhèi jiān wūzi tài àn. This room is too dark.
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
 1 hidden; secret; unclear in ànhào
-2 secretly in ¹àn'àn , ànshā"
-更;;"geng4; geng1";"geng4
+
+2 secretly in ¹àn'àn , ànshā";
+更;"geng4; geng1";"geng4
 ADVERB
+
 1 more; still/even more
+
 2 further; furthermore See also ¹gēng
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 geng1
 BOUND FORM
+
 1 change; replace; transform in gēnggǎi
+
 2 experience; undergo in bù gēngshì
----
+
+<hr style='width: 30%'>
+
 NOUN
-the five two-hour periods of night See also gèng"
-曾;;zeng1;"BOUND FORM
+
+the five two-hour periods of night See also gèng";
+曾;zeng1;"BOUND FORM
+
 separated by two generations; great-(grandfather, grandchild, etc.) in zēngzǔfù , zēngsūn
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname See also ²céng"
-曾經;曾经;ceng2jing1;"ADVERB
+
+Surname See also ²céng";
+曾經;ceng2jing1;"ADVERB
+
 once; ever
----
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
-∼ V-guo have V-ed 我曾經見過你太太。 Wǒ céngjīng jiànguo nǐ tàitai. I've met your wife."
-末;;mo4;"NOUN
+
+∼ V-guo have V-ed 我曾經見過你太太。 Wǒ céngjīng jiànguo nǐ tàitai. I've met your wife.";曾经
+末;mo4;"NOUN
+
 1 tip; end
+
 2 minor details; nonessentials
+
 3 powder; dust
-4 lg. terminal See also me"
-本;;ben3;"NOUN
+
+4 lg. terminal See also me";
+本;ben3;"NOUN
+
 1 root/stem of plant
+
 2 foundation
+
 3 capital
+
 4 book
+
 5 edition
----
+
+<hr style='width: 30%'>
+
 ATTRIBUTIVE
+
  
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 this in běnxiào
+
 2 original in běnlái
+
 3 (one's) native place
+
 4 current
----
+
+<hr style='width: 30%'>
+
 COVERB
+
 according to
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
-(for books/periodicals/files/etc.)"
-機;机;ji1;"BOUND FORM
+
+(for books/periodicals/files/etc.)";
+機;ji1;"BOUND FORM
+
 1 machine in jīqì
+
 2 airplane in jīpiào
+
 3 chance in ¹jīhuì
+
 4 occasion in ¹shíjī
+
 5 crucial point; key link in zhuǎnjī
-6 organic in ¹yǒujī"
-樣;样;yang4;"BOUND FORM
+
+6 organic in ¹yǒujī";机
+極富;ji2 fu4;"VERB
+
+PHRASE
+
+very rich";极富
+果真;guo3zhen1;"ADVERB
+
+really; as expected
+
+<hr style='width: 30%'>
+
+CONJUNCTION
+
+if indeed/really";
+樣;yang4;"BOUND FORM
+
 1 appearance; shape; form in yàngzi , yàngr
+
 2 sample; model; pattern in ¹shìyàng
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
-kind; type; class"
-栽培;;zai1pei2;"VERB
+
+kind; type; class";样
+栽培;zai1pei2;"VERB
+
 1 cultivate; grow
+
 2 foster; train; educate 多謝您的栽培。 Duōxiè nín de zāipéi. Thank you for teaching me.
-3 give/receive patronage"
-橋;桥;qiao2;"NOUN
-bridge"
-梭;;suo1;"NOUN
-shuttle"
-榜;;"bang3; bang4";"bang3
+
+3 give/receive patronage";
+橋;qiao2;"NOUN
+
+bridge";桥
+梭;suo1;"NOUN
+
+shuttle";
+榜;"bang3; bang4";"bang3
 NOUN
+
 1 a published list announcing successful candidates 榜上沒有你的名字。 Bǎng shang méiyọ̌u nǐ de míngzi. Your name isn't on the list.
+
 2 notice; announcement See also ⁸bàng
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 bang4
 BOUND FORM
+
 1 oar in bànggē
-2 whip, rod in bàngchī See also ²bǎng"
-正道;;zheng4dao5;"STATIC VERB
-, coll. bonafide; genuine; possessing acceptable credentials
----
-NOUN
-, Budd. the right/straight path See also ¹zhèngdào"
-此次;;ci3ci4;"NOUN
-, wr. this time"
-步履;;bu4lü3;"NOUN
-walk; gait"
-武;;wu3;"BOUND FORM
-1 military in wǔqì
-2 martial; valiant in ²yīngwǔ
----
-NOUN
-1 wr. footstep
-2 Surname"
-歹;;dai3;"BOUND FORM
-evil; vicious; crooked in dǎitú"
-殿;;dian4;"NOUN
-hall; palace; temple
----
-BOUND FORM
-the rear in diànjūn"
-毀;毁;hui3;"VERB
-1 destroy; ruin 他把機要文件給毀了。 Tā bǎ jīyào wénjiàn gẹ̌i huǐ le. He destroyed confidential documents.
-2 topo. refashion; make over
----
-BOUND FORM
-1 burn up
-2 defame; slander in huǐbàng"
-母子;;mu3-zi3;"NOUN
-1 mother and son
-2 capital and interest"
-氏;;shi4;"BOUND FORM
-1 clan; family in ¹shìzú
-2 family name; surname in ¹xìngshì
----
-SUFFIX
-(used after surnames)
-1 Mr./Mrs./Ms. 李氏 Lǐshì Mr. Li/the Li family
-2 張氏兄弟 Zhāngshì xiōngdì the Zhang brothers form of address for a celebrity 孫氏 Sūnshì Sun Yat-sen
-3 school of thought 老氏 Lǎoshì School of Laozi
-4 née 王李氏 Wáng Lǐ shì Mrs. Wang, née Li See also ¹⁸zhī"
-民風;民风;min2feng1;"NOUN
-1 social mood
-2 social/popular customs
-3 folkways; local traits"
-淪為;沦为;lun2wei2;"VERB
-PHRASE
-, wr. be reduced to"
-活活;;huo2huo2;"ADVERB
-while still alive 他被活活打死。 Tā bèi huóhuó dạ̌sǐ. He was beaten to death."
-活該;活该;huo2gai1;"INTJ.
-1 coll. serve sb. right
-2 deservedly be 你活該倒霉。 Nǐ huógāi dǎoméi. You deserved the bad luck.
-3 be destined to
-4 ought; should"
-混;;hun4;"VERB
-1 mix; confuse 別把這些東西混在一起。 Bié bǎ zhèxiē dōngxi hùn zài yī̠qǐ. Don't mix these things up.
-2 pass for; pass off as
-3 muddle/drift along
-4 get along with sb. 我跟他混得很熟。 Wǒ gēn tā hùn de hěn shóu. I'm quite familiar with him.
----
+
+2 whip, rod in bàngchī See also ²bǎng";
+止;zhi3;"VERB
+
+1 stop; halt; arrive at
+
+2 suppress; prohibit
+
+3 stay; detain
+
+<hr style='width: 30%'>
+
+CONSTRUCTION
+
+dào A wéi∼ until A
+	到目前為止 dào mùqián wéizhǐ until now
+
+<hr style='width: 30%'>
+
 ADVERB
-thoughtlessly; recklessly 別混出主意! Bié hùn chū zhǔyi! Stop making irresponsible suggestions! See also ⁵hún"
-混跡;混迹;hun4ji4;"VERB
-PHRASE
-, wr.
-1 fake/con one's way into
-2 live aloof"
-遊;游;you2;"VERB
-swim; float 沒有船, 我只好游過河去。 Méiyǒu chuán, wǒ zhị̌hǎo yóu guò ²hé qù. There was no boat so I had to swim across the river.
----
-BOUND FORM
-1 travel in lǚyóu
-2 rove in yóuguàng
-3 associate with
-4 reaches of a river in ¹shàngyóu , ¹xiàyóu
----
+
+only; merely
+
+<hr style='width: 30%'>
+
 NOUN
-Surname"
-滿天;满天;man3tian1;"PLACE WORD
-the whole sky"
-滿門;满门;man3men2;"PLACE WORD
-whole family"
-滾;滚;gun3;"VERB
-1 (slang) get away; beat it
-2 roll; beat it 滾出去! Gǔn chūqu! Scram!
-3 topo. boil 餃子再滾幾分鐘就好了。 Jiǎozi ²zài gǔn jǐ fēnzhōng jiù hǎo le. Let the dumplings boil for a few more minutes and then they'll be ready.
-4 bind; trim"
-澄;;cheng2;"BOUND FORM
-clear; transparent in chéngqīng See also ³dèng"
-滅;灭;mie4;"VERB
-1 extinguish; exterminate; put/go out
-2 (slang) defeat; beat"
-靈;灵;ling2;"STATIC VERB
-1 quick; clever; sharp 這小孩兒腦袋真靈。 Zhè xiǎoháir nǎodai zhēn líng. The child is very clever.
-2 efficacious; effective
-3 mysterious; divine
----
-BOUND FORM
-1 spirit; intelligence in shénlíng
-2 fairy; sprite; elf in língguài
-3 coffin in língjiù"
-炷香;;zhu4xiang1;"VERB
-OBJECT CONSTRUCTION
-burn incense
----
+
+, wr. bearing; demeanor";
+正道;zheng4dao5;"STATIC VERB
+
+, coll. bonafide; genuine; possessing acceptable credentials
+
+<hr style='width: 30%'>
+
 NOUN
-stick of incense"
-點將;点将;dian3jiang4;"VERB
-OBJECT CONSTRUCTION
-(opera)
-1 call the roll of officers and assign them tasks
-2 name sb. for a particular job"
-然;;ran2;"BOUND FORM
-right; correct; so in bùyǐwéirán , suǒyǐrán
----
-CONJUNCTION
-, wr. however; but
----
+
+, Budd. the right/straight path See also ¹zhèngdào";
+此次;ci3ci4;"NOUN
+
+, wr. this time";
+步履;bu4lü3;"NOUN
+
+walk; gait";
+武;wu3;"BOUND FORM
+
+1 military in wǔqì
+
+2 martial; valiant in ²yīngwǔ
+
+<hr style='width: 30%'>
+
+NOUN
+
+1 wr. footstep
+
+2 Surname";
+歹;dai3;"BOUND FORM
+
+evil; vicious; crooked in dǎitú";
+殘;can2;"BOUND FORM
+
+1 incomplete; deficient 這本書殘了。 Zhè běn shū cán le. This book is incomplete. in cánpǐn
+
+2 savage; ferocious in cánrěn
+
+3 remaining; remnant in cányú
+
+4 injure; damage in cánhài";残
+殿;dian4;"NOUN
+
+hall; palace; temple
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+the rear in diànjūn";
+毀;hui3;"VERB
+
+1 destroy; ruin 他把機要文件給毀了。 Tā bǎ jīyào wénjiàn gẹ̌i huǐ le. He destroyed confidential documents.
+
+2 topo. refashion; make over
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 burn up
+
+2 defame; slander in huǐbàng";毁
+毀掉;hui3diao4;"R.VERB
+
+destroy; cause to perish";毁掉
+母子;mu3-zi3;"NOUN
+
+1 mother and son
+
+2 capital and interest";
+氏;shi4;"BOUND FORM
+
+1 clan; family in ¹shìzú
+
+2 family name; surname in ¹xìngshì
+
+<hr style='width: 30%'>
+
 SUFFIX
-(marker for s.v./adv.) 安然 ānrán safe and sound; safely 顯然 xiǎnrán obviously
----
-VERB
-burn"
-物;;wu4;"BOUND FORM
-1 thing; matter in ¹wùjiàn , wùjià , wùlǐ
-2 world vs. oneself in dàirénjiēwù"
-牽掛;牵挂;qian1gua4;"VERB
-1 worry or be concerned about 她很牽掛她的父母。 ²Tā hěn qiānguà ²tā de fùmǔ. She's very concerned about her parents.
-2 bother; pester"
-狀;状;zhuang4;"BOUND FORM
-1 form; shape in ¹xíngzhuàng
-2 state; condition in zhuàngkuàng
-3 account; record in gòngzhuàng
-4 written complaint; plaint in gàozhuàng
-5 certificate in jiǎngzhuàng
-6 describe; narrate in miáozhuàng
-7 lg. (adverbial) modifier in zhuàngyǔ"
-獻;献;xian4;"VERB
-1 offer; present; donate
-2 show; display"
-玄;;xuan2;"STATIC VERB
-profound; abstruse
----
-BOUND FORM
-1 black; dark in xuánqīng
-2 coll. unreliable; incredible in xuánmiào"
-玄真;;xuan2zhen1;"NOUN
-jade"
-珠寶;珠宝;zhu1bao3;"NOUN
-jewelry
-M: ²jiàn / 件"
-班;;ban1;"NOUN
-1 class; team
-2 shift; duty
-3 mil. squad
-4 Surname
----
-NOMINAL MEASURE WORD
-(for crowds and scheduled transport vehicles)
----
-BOUND FORM
-scheduled; regular in bānchē"
-甚至;;shen4zhi4;"CONJUNCTION
-even (to the point of); so much so that"
-生活;;sheng1huo2;"NOUN
-1 life; existence 他們過著簡單的生活。 Tāmen guòzhe jiǎndān de shēnghuó. They lead a simple life.
-2 livelihood; profession
-3 topo. work (of workers, peasants, or handicraftsmen)
----
-VERB
-live"
-甲;;jia3;"NOUN
-1
-1st of the
-10 Heavenly Stems
-2 first in a series
-3 indefinite person/thing
----
-BOUND FORM
-1 shell; carapace in guījiǎ
-2 (finger/toe)nail in zhǐjia
-3 armor in kuījiǎ
-4 tithing
----
-VERB
-excel"
-甲子;;jia3zi3;"NOUN
-1
-1st year of the Sexagenary Cycle (1864,
-1924,
-1984 etc.)
-2 sixty-year cycle See also tiāngān-dìzhī"
-界;;jie4;"BOUND FORM
-1 boundary in ¹jièxiàn
-2 scope; extent in yǎnjiè
-3 circles; group; division in kēxuéjiè See also ⁸gā ²gà"
-留;;liu2;"VERB
-1 remain; stay
-2 ask sb. to stay
-3 reserve; keep; save 這是留給你的。 Zhè shì liú gẹ̌i nǐ de. This is kept for you.
-4 (let) grow
-5 accept; take
-6 leave (sth.)"
-瘋子;疯子;feng1zi5;"NOUN
-lunatic; madman"
-瘋狗;疯狗;feng1gou3;"NOUN
-rabid dog
-M: ²zhī / 隻"
-登;;deng1;"VERB
-1 ascend; climb; mount
-2 publish; record
-3 harvest
-4 pedal
-5 step on
-6 coll. wear (shoes/trousers)"
-蓋頭;盖头;gai4tou5;"NOUN
-1 red bridal veil
-2 veil
-M: ge / dǐng / 個 / 頂"
-盛事;;sheng4shi4;"NOUN
-grand occasion; great event
-M: ²jiàn / 件"
-相傳;相传;xiang1chuan2;"VERB
+
+(used after surnames)
+
+1 Mr./Mrs./Ms.
+	李氏 Lǐshì Mr. Li/the Li family
+
+2
+	張氏兄弟 Zhāngshì xiōngdì the Zhang brothers form of address for a celebrity
+	孫氏 Sūnshì Sun Yat-sen
+
+3 school of thought
+	老氏 Lǎoshì School of Laozi
+
+4 née
+	王李氏 Wáng Lǐ shì Mrs. Wang, née Li See also ¹⁸zhī";
+民風;min2feng1;"NOUN
+
+1 social mood
+
+2 social/popular customs
+
+3 folkways; local traits";民风
+淪為;lun2wei2;"VERB
+
 PHRASE
-tradition has it that ...; according to legend/tradition
----
-VERB
-hand down or pass on from one to another"
-盼望;;pan4wang4;"VERB
-hope/long for; look forward to"
-真君;;zhen1jun1;"NOUN
-deferential title of an immortal"
-眼下;;yan3xia4;"NOUN
-1 at present; now 眼下我沒空兒。 Yǎnxià wǒ méi kòngr. I'm busy right now.
-2 phys. subocular"
-砰;;peng1;"ONOUN
-Bang!"
-破爛;破烂;po4lan4;"ATTRIBUTIVE
-tattered; ragged; worn-out
----
-NOUN
-, coll. junk; scrap
-M: duī / 堆"
-砸;;za2;"VERB
-1 pound; ram 有人砸門。 Yǒurén zá mén. Someone is pounding on the door.
-2 break; smash
-3 topo. fail; bungle"
-確認;确认;que4ren4;"VERB
-affirm; confirm; identify with certainty 他的身分得到確認。 Tā de shēnfen dédào quèrèn. His identity was confirmed."
-碎;;sui4;"STATIC VERB
-1 broken; fragmentary 鏡子碎了。 Jìngzi suì le. The mirror is broken.
-2 garrulous; gabby 他的嘴真碎。 Tā de zuǐ zhēn suì. He's garrulous.
----
-BOUND FORM
-break to pieces; smash in fěnsuì"
-碧;;bi4;"BOUND FORM
-bluish/emerald green; blue in bìlǜ
----
-NOUN
-, wr. green jade; jasper"
-碧玉;;bi4yu4;"NOUN
-emerald; jasper
-M: ²kuài / 塊"
-祈福;;qi2fu2;"VERB
-OBJECT CONSTRUCTION
-pray for blessings"
-祖;;zu3;"BOUND FORM
-1 ancestor in zǔxiān
-2 wr. progenitor in bízǔ
-3 grandfather in zǔfù
----
-NOUN
-Surname"
-神佛;;shen2fo2;"NOUN
-gods; religious idols"
-神武;;shen2wu3;"NOUN
+
+, wr. be reduced to";沦为
+活活;huo2huo2;"ADVERB
+
+while still alive 他被活活打死。 Tā bèi huóhuó dạ̌sǐ. He was beaten to death.";
+活該;huo2gai1;"INTJ.
+
+1 coll. serve sb. right
+
+2 deservedly be 你活該倒霉。 Nǐ huógāi dǎoméi. You deserved the bad luck.
+
+3 be destined to
+
+4 ought; should";活该
+混;hun4;"VERB
+
+1 mix; confuse 別把這些東西混在一起。 Bié bǎ zhèxiē dōngxi hùn zài yī̠qǐ. Don't mix these things up.
+
+2 pass for; pass off as
+
+3 muddle/drift along
+
+4 get along with sb. 我跟他混得很熟。 Wǒ gēn tā hùn de hěn shóu. I'm quite familiar with him.
+
+<hr style='width: 30%'>
+
+ADVERB
+
+thoughtlessly; recklessly 別混出主意! Bié hùn chū zhǔyi! Stop making irresponsible suggestions! See also ⁵hún";
+混跡;hun4ji4;"VERB
+
+PHRASE
+
 , wr.
-1 divine and mighty (usu. said of an emperor or a great general)
-2 intelligent and courageous"
-祭天;;ji4tian1;"VERB
-OBJECT CONSTRUCTION
-offer sacrifice to Heaven"
-禍;祸;huo4;"NOUN
-misfortune; disaster; calamity
-M: ²jiàn / 件
----
-VERB
-bring disaster to; ruin"
-稀罕;;xi1han5;"STATIC VERB
-rare; scarce; uncommon
----
-VERB
-1 value as a rarity; cherish
-2 care; value 我不稀罕你的錢。 Wǒ bù xīhan nǐ de qián. I don't care about your money.
----
+
+1 fake/con one's way into
+
+2 live aloof";混迹
+遊;you2;"VERB
+
+swim; float 沒有船, 我只好游過河去。 Méiyǒu chuán, wǒ zhị̌hǎo yóu guò ²hé qù. There was no boat so I had to swim across the river.
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 travel in lǚyóu
+
+2 rove in yóuguàng
+
+3 associate with
+
+4 reaches of a river in ¹shàngyóu , ¹xiàyóu
+
+<hr style='width: 30%'>
+
 NOUN
-rarity"
-穿;;chuan1;"VERB
+
+Surname";游
+滿天;man3tian1;"PLACE WORD
+
+the whole sky";满天
+滿門;man3men2;"PLACE WORD
+
+whole family";满门
+滾;gun3;"VERB
+
+1 (slang) get away; beat it
+
+2 roll; beat it 滾出去! Gǔn chūqu! Scram!
+
+3 topo. boil 餃子再滾幾分鐘就好了。 Jiǎozi ²zài gǔn jǐ fēnzhōng jiù hǎo le. Let the dumplings boil for a few more minutes and then they'll be ready.
+
+4 bind; trim";滚
+澄;cheng2;"BOUND FORM
+
+clear; transparent in chéngqīng See also ³dèng";
+滅;mie4;"VERB
+
+1 extinguish; exterminate; put/go out
+
+2 (slang) defeat; beat";灭
+靈;ling2;"STATIC VERB
+
+1 quick; clever; sharp 這小孩兒腦袋真靈。 Zhè xiǎoháir nǎodai zhēn líng. The child is very clever.
+
+2 efficacious; effective
+
+3 mysterious; divine
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 spirit; intelligence in shénlíng
+
+2 fairy; sprite; elf in língguài
+
+3 coffin in língjiù";灵
+炷香;zhu4xiang1;"VERB
+
+OBJECT CONSTRUCTION
+
+burn incense
+
+<hr style='width: 30%'>
+
+NOUN
+
+stick of incense";
+點將;dian3jiang4;"VERB
+
+OBJECT CONSTRUCTION
+
+(opera)
+
+1 call the roll of officers and assign them tasks
+
+2 name sb. for a particular job";点将
+然;ran2;"BOUND FORM
+
+right; correct; so in bùyǐwéirán , suǒyǐrán
+
+<hr style='width: 30%'>
+
+CONJUNCTION
+
+, wr. however; but
+
+<hr style='width: 30%'>
+
+SUFFIX
+
+(marker for s.v./adv.) 安然 ānrán safe and sound; safely
+	顯然 xiǎnrán obviously
+
+<hr style='width: 30%'>
+
+VERB
+
+burn";
+物;wu4;"BOUND FORM
+
+1 thing; matter in ¹wùjiàn , wùjià , wùlǐ
+
+2 world vs. oneself in dàirénjiēwù";
+牽掛;qian1gua4;"VERB
+
+1 worry or be concerned about 她很牽掛她的父母。 ²Tā hěn qiānguà ²tā de fùmǔ. She's very concerned about her parents.
+
+2 bother; pester";牵挂
+狀;zhuang4;"BOUND FORM
+
+1 form; shape in ¹xíngzhuàng
+
+2 state; condition in zhuàngkuàng
+
+3 account; record in gòngzhuàng
+
+4 written complaint; plaint in gàozhuàng
+
+5 certificate in jiǎngzhuàng
+
+6 describe; narrate in miáozhuàng
+
+7 lg. (adverbial) modifier in zhuàngyǔ";状
+狂;kuang2;"STATIC VERB
+
+1 mad; crazy
+
+2 violent; wild; unrestrained
+
+3 arrogant; overbearing
+
+<hr style='width: 30%'>
+
+NOUN
+
+mania; insanity";
+獻;xian4;"VERB
+
+1 offer; present; donate
+
+2 show; display";献
+玄;xuan2;"STATIC VERB
+
+profound; abstruse
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 black; dark in xuánqīng
+
+2 coll. unreliable; incredible in xuánmiào";
+玄真;xuan2zhen1;"NOUN
+
+jade";
+玄門;xuan2men2;"NOUN
+
+1 Buddhism
+
+2 Daoism";玄门
+珠寶;zhu1bao3;"NOUN
+
+jewelry
+
+M: ²jiàn / 件";珠宝
+班;ban1;"NOUN
+
+1 class; team
+
+2 shift; duty
+
+3 mil. squad
+
+4 Surname
+
+<hr style='width: 30%'>
+
+NOMINAL MEASURE WORD
+
+(for crowds and scheduled transport vehicles)
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+scheduled; regular in bānchē";
+甚至;shen4zhi4;"CONJUNCTION
+
+even (to the point of); so much so that";
+生活;sheng1huo2;"NOUN
+
+1 life; existence 他們過著簡單的生活。 Tāmen guòzhe jiǎndān de shēnghuó. They lead a simple life.
+
+2 livelihood; profession
+
+3 topo. work (of workers, peasants, or handicraftsmen)
+
+<hr style='width: 30%'>
+
+VERB
+
+live";
+甲;jia3;"NOUN
+
+1
+
+1st of the
+
+10 Heavenly Stems
+
+2 first in a series
+
+3 indefinite person/thing
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 shell; carapace in guījiǎ
+
+2 (finger/toe)nail in zhǐjia
+
+3 armor in kuījiǎ
+
+4 tithing
+
+<hr style='width: 30%'>
+
+VERB
+
+excel";
+甲子;jia3zi3;"NOUN
+
+1
+
+1st year of the Sexagenary Cycle (1864,
+
+1924,
+
+1984 etc.)
+
+2 sixty-year cycle See also tiāngān-dìzhī";
+界;jie4;"BOUND FORM
+
+1 boundary in ¹jièxiàn
+
+2 scope; extent in yǎnjiè
+
+3 circles; group; division in kēxuéjiè See also ⁸gā ²gà";
+留;liu2;"VERB
+
+1 remain; stay
+
+2 ask sb. to stay
+
+3 reserve; keep; save 這是留給你的。 Zhè shì liú gẹ̌i nǐ de. This is kept for you.
+
+4 (let) grow
+
+5 accept; take
+
+6 leave (sth.)";
+瘋子;feng1zi5;"NOUN
+
+lunatic; madman";疯子
+瘋狗;feng1gou3;"NOUN
+
+rabid dog
+
+M: ²zhī / 隻";疯狗
+病;bing4;"NOUN
+
+disease
+
+<hr style='width: 30%'>
+
+VERB
+
+fall sick 他病了。 Tā bìng le. He's ill.
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+fault; defect
+	語病 yǔbìng badly formed expression";
+登;deng1;"VERB
+
+1 ascend; climb; mount
+
+2 publish; record
+
+3 harvest
+
+4 pedal
+
+5 step on
+
+6 coll. wear (shoes/trousers)";
+蓋頭;gai4tou5;"NOUN
+
+1 red bridal veil
+
+2 veil
+
+M: ge / dǐng / 個 / 頂";盖头
+盛事;sheng4shi4;"NOUN
+
+grand occasion; great event
+
+M: ²jiàn / 件";
+盛名;sheng4ming2;"NOUN
+
+great reputation";
+相傳;xiang1chuan2;"VERB
+
+PHRASE
+
+tradition has it that ...; according to legend/tradition
+
+<hr style='width: 30%'>
+
+VERB
+
+hand down or pass on from one to another";相传
+盼望;pan4wang4;"VERB
+
+hope/long for; look forward to";
+真君;zhen1jun1;"NOUN
+
+deferential title of an immortal";
+眼下;yan3xia4;"NOUN
+
+1 at present; now 眼下我沒空兒。 Yǎnxià wǒ méi kòngr. I'm busy right now.
+
+2 phys. subocular";
+石;shi2;"BOUND FORM
+
+1 stone; rock in shítou
+
+2 stone inscription in ²shíkè
+
+<hr style='width: 30%'>
+
+NOUN
+
+Surname See also ⁷dàn";
+砰;peng1;"ONOUN
+
+Bang!";
+破爛;po4lan4;"ATTRIBUTIVE
+
+tattered; ragged; worn-out
+
+<hr style='width: 30%'>
+
+NOUN
+
+, coll. junk; scrap
+
+M: duī / 堆";破烂
+砸;za2;"VERB
+
+1 pound; ram 有人砸門。 Yǒurén zá mén. Someone is pounding on the door.
+
+2 break; smash
+
+3 topo. fail; bungle";
+確認;que4ren4;"VERB
+
+affirm; confirm; identify with certainty 他的身分得到確認。 Tā de shēnfen dédào quèrèn. His identity was confirmed.";确认
+碎;sui4;"STATIC VERB
+
+1 broken; fragmentary 鏡子碎了。 Jìngzi suì le. The mirror is broken.
+
+2 garrulous; gabby 他的嘴真碎。 Tā de zuǐ zhēn suì. He's garrulous.
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+break to pieces; smash in fěnsuì";
+碧;bi4;"BOUND FORM
+
+bluish/emerald green; blue in bìlǜ
+
+<hr style='width: 30%'>
+
+NOUN
+
+, wr. green jade; jasper";
+碧玉;bi4yu4;"NOUN
+
+emerald; jasper
+
+M: ²kuài / 塊";
+祈福;qi2fu2;"VERB
+
+OBJECT CONSTRUCTION
+
+pray for blessings";
+祖;zu3;"BOUND FORM
+
+1 ancestor in zǔxiān
+
+2 wr. progenitor in bízǔ
+
+3 grandfather in zǔfù
+
+<hr style='width: 30%'>
+
+NOUN
+
+Surname";
+神佛;shen2fo2;"NOUN
+
+gods; religious idols";
+神武;shen2wu3;"NOUN
+
+, wr.
+
+1 divine and mighty (usu. said of an emperor or a great general)
+
+2 intelligent and courageous";
+祭天;ji4tian1;"VERB
+
+OBJECT CONSTRUCTION
+
+offer sacrifice to Heaven";
+禍;huo4;"NOUN
+
+misfortune; disaster; calamity
+
+M: ²jiàn / 件
+
+<hr style='width: 30%'>
+
+VERB
+
+bring disaster to; ruin";祸
+稀罕;xi1han5;"STATIC VERB
+
+rare; scarce; uncommon
+
+<hr style='width: 30%'>
+
+VERB
+
+1 value as a rarity; cherish
+
+2 care; value 我不稀罕你的錢。 Wǒ bù xīhan nǐ de qián. I don't care about your money.
+
+<hr style='width: 30%'>
+
+NOUN
+
+rarity";
+穿;chuan1;"VERB
+
 1 penetrate; pierce through
+
 2 pass through; cross 穿過這片樹林就到了。 Chuānguò zhè piàn shùlín jiù dào le. We'll reach our destination after passing through the woods.
-3 wear; put on; be dressed in 這雙鞋穿舊了。 Zhè shuāng xié chuānjiù le. These shoes are showing their age."
-端;;duan1;"BOUND FORM
+
+3 wear; put on; be dressed in 這雙鞋穿舊了。 Zhè shuāng xié chuānjiù le. These shoes are showing their age.";
+端;duan1;"BOUND FORM
+
 1 end; extremity in liǎngduān
+
 2 beginning in kāiduān
+
 3 point in yīduān
+
 4 reason in wúduān
+
 5 proper in duānzhèng
----
+
+<hr style='width: 30%'>
+
 VERB
-hold sth. level; carry 把你的意見都端出來。 Bạ̌ nǐ de yìjian dōu duān chūlai. Come out with all your thoughts (on the matter)."
-笑柄;;xiao4bing3;"NOUN
-laughingstock; butt; joke 那句話成了大家的笑柄。 Nà jù huà chéngle dàjiā de xiàobǐng. That remark has become a joke for everyone."
-精通;;jing1tong1;"VERB
-be proficient in; master 他精通好幾國語言。 Tā jīngtōng hạ̌o jǐ guó yǔyán. He has mastered several foreign languages."
-經典;经典;jing1dian3;"NOUN
+
+hold sth. level; carry 把你的意見都端出來。 Bạ̌ nǐ de yìjian dōu duān chūlai. Come out with all your thoughts (on the matter).";
+笑柄;xiao4bing3;"NOUN
+
+laughingstock; butt; joke 那句話成了大家的笑柄。 Nà jù huà chéngle dàjiā de xiàobǐng. That remark has become a joke for everyone.";
+精通;jing1tong1;"VERB
+
+be proficient in; master 他精通好幾國語言。 Tā jīngtōng hạ̌o jǐ guó yǔyán. He has mastered several foreign languages.";
+終歸;zhong1gui1;"ADVERB
+
+eventually; in the end; after all 他終歸會明白的。 Tā zhōngguī huì míngbai de. He'll understand eventually.";终归
+經典;jing1dian3;"NOUN
+
 1 classics 紅樓夢是經典小說。 Hónglóu Mèng shì jīngdiǎn xiǎoshuō. The Dream of the Red Chamber is a classic novel.
+
 2 scriptures
+
 3 text
----
+
+<hr style='width: 30%'>
+
 ATTRIBUTIVE
-classical"
-罷;罢;"ba4; ba4; pi2";"ba4
+
+classical";经典
+罷;"ba4; pi2";"ba4
 VERB
+
 1 stop; cease 教員罷了十天教。 Jiàoyuán bàle shí tiān jiào. The teachers went on strike for ten days.
+
 2 quit
+
 3 dismiss
+
 4 finish 吃罷晚飯, 學生就都回家了。 Chī bà wǎnfàn, xuésheng jiù dōu huíjiā le. The students all went home after finishing dinner.
+
 5 refuse to attend See also ³pí
-===
-ba4
-VERB
-1 stop; cease 教員罷了十天教。 Jiàoyuán bàle shí tiān jiào. The teachers went on strike for ten days.
-2 quit
-3 dismiss
-4 finish 吃罷晚飯, 學生就都回家了。 Chī bà wǎnfàn, xuésheng jiù dōu huíjiā le. The students all went home after finishing dinner.
-5 refuse to attend See also ³pí
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 pi2
 BOUND FORM
-tired; weary; exhausted in ¹píláo See also ²bà"
-罪;;zui4;"NOUN
+
+tired; weary; exhausted in ¹píláo See also ²bà";罢
+罪;zui4;"NOUN
+
 crime; guilt; sin 他有什麼罪? Tā yǒu shénme zuì? What crime did he commit?
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 fault; blame; misconduct in zuìguo
+
 2 suffering; pain; hardship in shòuzuì
----
+
+<hr style='width: 30%'>
+
 VERB
-put the blame on; blame"
-美談;美谈;mei3tan2;"NOUN
+
+put the blame on; blame";
+罪孽深重;zui4nie4shen1zhong4;"FIXED EXPRESSION
+
+be grievously sinful";
+美談;mei3tan2;"NOUN
+
 1 instructive anecdote
-2 a story passed on with approval"
-羡;;xian4;"BOUND FORM
-envy; admire in xiànmù"
-羽;;yu3;"BOUND FORM
+
+2 a story passed on with approval";美谈
+羡;xian4;"BOUND FORM
+
+envy; admire in xiànmù";
+羽;yu3;"BOUND FORM
+
 1 feather; plume in yǔmáo
+
 2 wing in yǔchì
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 1 mus. fifth note of the pentatonic scale (wǔyīn)
-2 lg. fifth class of initials in ancient phonology"
-翻;;"fan1; fan1";"fan1
+
+2 lg. fifth class of initials in ancient phonology";
+翻;"fan1; fan1";"fan1
 VERB
+
 1 turn over 請把書翻到第五頁。 Qị̌ng bǎ shū fān dào dì-wǔ yè. Please turn to page five.
+
 2 cross; get over
+
 3 rummage; search
+
 4 read/leaf through, browse (papers/documents)
+
 5 translate
+
 6 reverse
+
 7 multiply
+
 8 coll. fall out; break up 她跟男朋友翻了。 ²Tā gēn nánpéngyou fān le. She broke up with her boyfriend.
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 fan1
 VERB
+
 1 turn over 請把書翻到第五頁。 Qị̌ng bǎ shū fān dào dì-wǔ yè. Please turn to page five.
+
 2 cross; get over
+
 3 rummage; search
+
 4 read/leaf through, browse (papers/documents)
+
 5 translate
+
 6 reverse
+
 7 multiply
-8 coll. fall out; break up 她跟男朋友翻了。 ²Tā gēn nánpéngyou fān le. She broke up with her boyfriend."
-老祖;;lao3zu3;"NOUN
+
+8 coll. fall out; break up 她跟男朋友翻了。 ²Tā gēn nánpéngyou fān le. She broke up with her boyfriend.";
+老祖;lao3zu3;"NOUN
+
 ancestor; forefathers
-M: ²wèi / 位"
-而;;er2;"CONJUNCTION
+
+M: ²wèi / 位";
+而;er2;"CONJUNCTION
+
 and; and yet
----
+
+<hr style='width: 30%'>
+
 PRONOUN
+
 , wr. you
----
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
-yī V1 ∼ V2 V2 right after V1 一戰而勝 yị̄zhàn'érshèng win victory by a single blow/battle"
-聶;聂;Nie4;"NOUN
-Surname"
-膽;胆;dan3;"NOUN
+
+yī V1 ∼ V2 V2 right after V1
+	一戰而勝 yị̄zhàn'érshèng win victory by a single blow/battle";
+聶;Nie4;"NOUN
+
+Surname";聂
+膽;dan3;"NOUN
+
 1 gallbladder
+
 2 courage; bravery; audacity
-3 internal parts"
-勝;胜;sheng4;"VERB
+
+3 internal parts";胆
+勝;sheng4;"VERB
+
 1 win a victory; succeed 我們隊勝了。 Wǒmen ²duì shèng le. Our team won.
+
 2 surpass; excel 事實勝於雄辯。 Shìshí shèngyú xióngbiàn. Facts speak louder than words.
+
 3 defeat
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 triumphant
+
 2 superb; distinctive
+
 3 victory in shènglì
+
 4 scenic view in ²shèngjǐng
+
 5 trad. (women's) hair decoration in fāngshèng
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname See also bụ̀shèng"
-自願;自愿;zi4yuan4;"ADVERB
-voluntarily or of one's own accord 他自願加入救援隊。 Tā zìyuàn jiārù jiùyuán ²duì. He voluntarily joined the rescue team."
-至;;zhi4;"COVERB
+
+Surname See also bụ̀shèng";胜
+能耐;neng2nai5;"NOUN
+
+, coll. ability; capability; skill 他有能耐辦好這件事兒。 Tā yǒu néngnai ²bàn hǎo zhè ²jiàn ²shìr. He has the ability to deal with this matter.";
+自願;zi4yuan4;"ADVERB
+
+voluntarily or of one's own accord 他自願加入救援隊。 Tā zìyuàn jiārù jiùyuán ²duì. He voluntarily joined the rescue team.";自愿
+至;zhi4;"COVERB
+
 to; until; till 這個遊戲適合三至五歲的兒童。 Zhège yóuxì shìhé sān zhì wǔ suì de értóng. This game is suitable for children
+
 3 to
+
 5 years old.
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 extremely; most
----
+
+<hr style='width: 30%'>
+
 VERB
-, wr. arrive; reach"
-至於;至于;zhi4yu2;"CONJUNCTION
+
+, wr. arrive; reach";
+至於;zhi4yu2;"CONJUNCTION
+
 as for/to 至於這個問題, 我們請專家來回答。 Zhìyú zhège wèntí, wǒmen qǐng zhuānjiā lái huídá. As for this question, we'll ask the specialist to answer it.
----
+
+<hr style='width: 30%'>
+
 ADVERB
-(go) so far as to"
-至此;;zhi4ci3;"ADVERB
+
+(go) so far as to";至于
+至此;zhi4ci3;"ADVERB
+
 1 to here
+
 2 so far
-3 to this extent"
-節;节;jie2;"NOUN
+
+3 to this extent";
+捨;she3;"VERB
+
+give up; abandon
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+give alms in shīshě See also ⁷shè";舍
+舍;she4;"BOUND FORM
+
+1 dormitory; institutionally provided housing in ¹sùshè
+
+2 school building in xiàoshè
+
+3 pen/shed for animals in niúshè
+
+4 humb. my home in ¹shèjiān
+
+5 my younger relatives in shèdì
+
+<hr style='width: 30%'>
+
+NOUN
+
+Surname
+
+<hr style='width: 30%'>
+
+NOMINAL MEASURE WORD
+
+(trad. measure of distance, one day's march, equal to
+
+30 lǐ) See also shě";
+節;jie2;"NOUN
+
 joint; node; knot
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 1 segment; part; paragraph; section
+
 2 item
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 festival; holiday in Chūnjié
+
 2 moral integrity; chastity in ¹jiécāo
+
 3 syllable in yīnjié
+
 4 economize; save in jiéshěng
+
 5 restrain; control in ¹jiézhì
----
+
+<hr style='width: 30%'>
+
 NOUN
-name of one of the Sixty-four Hexagrams (䷻) See also ⁸jiē"
-蒼生;苍生;cang1sheng1;"NOUN
-the common people"
-蘇;苏;Su1;"NOUN
+
+name of one of the Sixty-four Hexagrams (䷻) See also ⁸jiē";节
+蒼生;cang1sheng1;"NOUN
+
+the common people";苍生
+蘇;Su1;"NOUN
+
 1 short for Suzhou
+
 2 short for Jiangsu province
+
 3 short for the former Soviet Union
+
 4 Surname
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
-revive in fùsū  char. in lūsu"
-若;;"ruo4; re3";"ruo4
+
+revive in fùsū  char. in lūsu";苏
+若;"ruo4; re3";"ruo4
 CONJUNCTION
+
 if; as if
----
+
+<hr style='width: 30%'>
+
 VERB
+
 seem; appear to
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 seemingly; as if
----
+
+<hr style='width: 30%'>
+
 PRONOUN
+
 , wr. you; your See also ²rě
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 re3
-char. in bōrě See also ¹ruò"
-莫;;mo4;"ADVERB
+char. in bōrě See also ¹ruò";
+莫;mo4;"ADVERB
+
 , wr. not; be/do not
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname"
-著名;;zhu4ming2;"STATIC VERB
-famous; celebrated 他是美國著名的作家。 Tā shì Měiguó zhùmíng de zuòjiā. He's a famous American writer."
-落腳點;落脚点;luo4jiao3dian3;"NOUN
-stopover"
-葬;;zang4;"VERB
-bury; inter 她的父母葬在這裡。 ²Tā de fùmǔ zàng zài zhèlǐ. Her parents were buried here."
-雖然;虽然;sui1ran2;"CONJUNCTION
+
+Surname";
+著名;zhu4ming2;"STATIC VERB
+
+famous; celebrated 他是美國著名的作家。 Tā shì Měiguó zhùmíng de zuòjiā. He's a famous American writer.";
+著者;zhu4zhe3;"NOUN
+
+author; writer";
+落腳點;luo4jiao3dian3;"NOUN
+
+stopover";落脚点
+葬;zang4;"VERB
+
+bury; inter 她的父母葬在這裡。 ²Tā de fùmǔ zàng zài zhèlǐ. Her parents were buried here.";
+雖然;sui1ran2;"CONJUNCTION
+
 though; although
----
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
-∼ A kěshi B although A (nevertheless) B"
-蠶食;蚕食;can2shi2;"VERB
-nibble"
-行;;xing2;"STATIC VERB
+
+∼ A kěshi B although A (nevertheless) B";虽然
+蠶食;can2shi2;"VERB
+
+nibble";蚕食
+行;xing2;"STATIC VERB
+
 1 alright; acceptable 這樣做行嗎? Zhèyàng zuò xíng ma? Is it alright to do it this way?
+
 2 capable; competent 你真行。 Nǐ zhēn xíng. You are really competent.
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 go; walk in zìxíngchē , ²bùxíng
+
 2 travel in ¹lǚxíng
+
 3 be current; prevail; circulate in ¹liúxíng
+
 4 do; perform; carry out; engage in in ¹shíxíng
+
 5 temporary; makeshift in xínggōng
+
 6 wr. soon in xíngjiāng
+
 7 behavior; conduct in xíngwéi
-8 running script in ¹xíngshū See also ¹háng ³hàng heng"
-行色;;xing2se4;"NOUN
-conditions/scene at departure"
-行色匆匆;;xing2se4cong1cong1;"FIXED EXPRESSION
-be in a hurry to set out (depart)"
-街頭賣藝;街头卖艺;jie1tou2mai4yi4;"FIXED EXPRESSION
-perform in the streets"
-被;;"bei4; pi1";"bei4
+
+8 running script in ¹xíngshū See also ¹háng ³hàng heng";
+行色;xing2se4;"NOUN
+
+conditions/scene at departure";
+行色匆匆;xing2se4cong1cong1;"FIXED EXPRESSION
+
+be in a hurry to set out (depart)";
+街頭賣藝;jie1tou2mai4yi4;"FIXED EXPRESSION
+
+perform in the streets";街头卖艺
+被;"bei4; pi1";"bei4
 BOUND FORM
+
 1 quilt in miánbèi
+
 2 cover in máojīnbèi
----
+
+<hr style='width: 30%'>
+
 COVERB
-by 我被他嚇了一跳。 Wǒ bèi tā xiàle yị̄ tiào. He gave me a start.  AUX. (passive signifier) 被選為模範工人 Bèi xuǎn wéi mófàn gōngrén be elected a model worker See also ⁹pī
-===
+
+by 我被他嚇了一跳。 Wǒ bèi tā xiàle yị̄ tiào. He gave me a start.  AUX. (passive signifier)
+	被選為模範工人 Bèi xuǎn wéi mófàn gōngrén be elected a model worker See also ⁹pī
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 pi1
-char. in ¹pīfú See also ¹bèi"
-裝;装;zhuang1;"VERB
+char. in ¹pīfú See also ¹bèi";
+裝;zhuang1;"VERB
+
 1 play the part/role of; act
+
 2 dress up
+
 3 pretend; feign 別裝好人。 Bié zhuāng hǎorén. Don't pretend to be nice.
+
 4 install; fit; assemble 我不會裝電腦。 Wǒ bụ̀ huì zhuāng diànnǎo. I knew nothing about how to install a computer.
+
 5 load; pack; hold 盒子裝不下了。 Hézi zhuāng bụ̀ xià le. The box is full.
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 outfit; dress; clothing; costume in fúzhuāng
+
 2 stage makeup/costume in xìzhuāng
-3 binding (of books) in ²píngzhuāng , jīngzhuāng"
-警惕;;jing3ti4;"VERB
-be on guard against"
-計劃;计划;ji4hua4;"NOUN
+
+3 binding (of books) in ²píngzhuāng , jīngzhuāng";装
+警惕;jing3ti4;"VERB
+
+be on guard against";
+計劃;ji4hua4;"NOUN
+
  
----
+
+<hr style='width: 30%'>
+
 VERB
-plan; project; program"
-認真;认真;ren4zhen1;"VERB
+
+plan; project; program";计划
+認真;ren4zhen1;"VERB
+
 OBJECT CONSTRUCTION
+
 take seriously 我只是隨便說說, 別認真。 Wọ̌ zhǐshì suíbiàn shuōshuo, bié rènzhēn. I'm just kidding. Don't take it seriously.
----
+
+<hr style='width: 30%'>
+
 STATIC VERB
-serious; earnest"
-誕;诞;dan4;"BOUND FORM
+
+serious; earnest";认真
+誕;dan4;"BOUND FORM
+
 1 birth in dànshēng
+
 2 birthday in dànchén
-3 absurd; fantastic in huāngdàn"
-詭;诡;gui3;"BOUND FORM
+
+3 absurd; fantastic in huāngdàn";诞
+詭;gui3;"BOUND FORM
+
 1 deceitful; tricky; cunning in ²guǐjì
-2 weird; eerie in guǐyì"
-諸;诸;zhu1;"PREFIX
-all; various"
-誰;谁;shei2;(coll. pronunciation) See shuí
-談;谈;tan2;"VERB
+
+2 weird; eerie in guǐyì";诡
+諸;zhu1;"PREFIX
+
+all; various";诸
+誰;shei2;(coll. pronunciation) See shuí;谁
+談;tan2;"VERB
+
 talk; chat 我們談了一個小時。 Wǒmen tánle yị̄ ge xiǎoshí. We talked for an hour.
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 what is said in kōngtán , ¹qítán
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname"
-敗;败;bai4;"VERB
+
+Surname";谈
+象;xiang4;"NOUN
+
+elephant
+
+M: ²zhī / tóu / 隻 / 頭
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+1 appearance; shape; image in ¹yìnxiàng
+
+2 imitate in ¹xiàngxíng See also ²xiàng";
+敗;bai4;"VERB
+
 1 lose; be defeated
+
 2 beat; defeat
+
 3 spoil 這事兒很可能敗在他手裡。 Zhè shìr hẹ̌n kěnéng bài zài tā shọ̌u lǐ. He may spoil the whole show.
+
 4 counteract
-5 decay"
-貶謫;贬谪;bian3zhe2;"VERB
-, trad. banish from court"
-資質;资质;zi1zhi4;"NOUN
-natural endowments; intelligence; talent"
-資質平平;资质平平;zi1zhi4ping2ping2;"FIXED EXPRESSION
-One's natural endowments are ordinary."
-賜;赐;ci4;"wr.  
----
+
+5 decay";败
+貶謫;bian3zhe2;"VERB
+
+, trad. banish from court";贬谪
+資質;zi1zhi4;"NOUN
+
+natural endowments; intelligence; talent";资质
+資質平平;zi1zhi4ping2ping2;"FIXED EXPRESSION
+
+One's natural endowments are ordinary.";资质平平
+賜;ci4;"wr.  
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 give; grant; favor in cìyǔ
-2 gift in hòucì"
-赦;;she4;"VERB
-remit (punishment); pardon"
-起;;qi3;"VERB
+
+2 gift in hòucì";赐
+赦;she4;"VERB
+
+remit (punishment); pardon";
+起;qi3;"VERB
+
 1 rise; get up
+
 2 raise; build 你說的話起了作用。 Nǐ shuō de huà qǐle zuòyòng. What you have said has had an effect.
-3 start 從今天起 cóng jīntiān qǐ starting from today
-4 unload; remove 起貨 Qǐhuò unload goods
+
+3 start
+	從今天起 cóng jīntiān qǐ starting from today
+
+4 unload; remove
+	起貨 Qǐhuò unload goods
+
 5 buy; obtain
----
+
+<hr style='width: 30%'>
+
 SUFFIX
-1 (with sense of “up”) a 舉起槍(來)瞄準 jụ̌qǐ qiāng (lái) miáozhǔn raise a gun and take aim b 說起這件事兒 shuōqǐ zhè jiàn shìr mentioned this matter
+
+1 (with sense of “up”) a 舉起槍(來)瞄準 jụ̌qǐ qiāng (lái) miáozhǔn raise a gun and take aim
+	b 說起這件事兒 shuōqǐ zhè jiàn shìr mentioned this matter
+
 2 (as resultative ending) 我買不起。 Wǒ mǎibuqǐ. I can't afford it.
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
-case; batch; group 分三起出發 fēn sān qǐ chūfā set out in three groups"
-趣;;qu4;"BOUND FORM
+
+case; batch; group
+	分三起出發 fēn sān qǐ chūfā set out in three groups";
+趣;qu4;"BOUND FORM
+
 1 interest; delight in qùwèi
+
 2 bent; inclination in ¹zhìqù
-3 interesting; entertaining in yǒuqù"
-路過;路过;lu4guo4;"R.VERB
-pass by/through (a place) 我每天路過我的舊家。 Wọ̌ měitiān lùguò wǒ de ²jiù jiā. I pass by my old home everyday."
-踩;;cai3;"VERB
-step on; trample"
-踹;;chuai4;"VERB
+
+3 interesting; entertaining in yǒuqù";
+路過;lu4guo4;"R.VERB
+
+pass by/through (a place) 我每天路過我的舊家。 Wọ̌ měitiān lùguò wǒ de ²jiù jiā. I pass by my old home everyday.";路过
+踩;cai3;"VERB
+
+step on; trample";
+踹;chuai4;"VERB
+
 1 kick
+
 2 tread on; trample
-3 loan try"
-車到山前必有路;车到山前必有路;che1 dao4 shan1qian2 bi4 you3 lu4;"FIXED EXPRESSION
-Things will eventually sort themselves out."
-辱;;ru3;"BOUND FORM
+
+3 loan try";
+車到山前必有路;che1 dao4 shan1qian2 bi4 you3 lu4;"FIXED EXPRESSION
+
+Things will eventually sort themselves out.";车到山前必有路
+辱;ru3;"BOUND FORM
+
 1 insult; disgrace in wụ̌rǔ
-2 court. be honored in rǔlín"
-過;过;guo4;"VERB
+
+2 court. be honored in rǔlín";
+過;guo4;"VERB
+
 1 pass; cross 過馬路要當心。 Guò mǎlù yào dāngxīn. Be careful when crossing the street.
+
 2 transfer (e.g., ownership)
+
 3 undergo a process; go through
+
 4 surpass; exceed
-5 celebrate; observe 過年 Guònián celebrate new year  CMP. V bu/de∼ can't/can V 打不過他 dǎbuguò tā can't beat him 打得過他 dǎdeguò tā can beat him
----
+
+5 celebrate; observe
+	過年 Guònián celebrate new year  CMP. V bu/de∼ can't/can V
+	打不過他 dǎbuguò tā can't beat him
+	打得過他 dǎdeguò tā can beat him
+
+<hr style='width: 30%'>
+
 NOUN
+
 fault; mistake 這是你的過。 Zhè shì nǐ de guò. This is your fault.
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 too; excessively
----
+
+<hr style='width: 30%'>
+
 COVERB
-after 過幾天 Guò jǐ tiān after a few days
----
+
+after
+	過幾天 Guò jǐ tiān after a few days
+
+<hr style='width: 30%'>
+
 BOUND FORM
-excessive; undue; overly in guòzhòng See also guo"
-近;;jin4;"STATIC VERB
+
+excessive; undue; overly in guòzhòng See also guo";过
+近;jin4;"STATIC VERB
+
 1 near; close 我們兩家住得很近。 Wǒmen liǎng jiā zhù de hěn jìn. Our two families live near each other.
+
 2 similar/close to
+
 3 intimate; closely related 他們倆的關係很近。 Tāmen liǎ de guānxi hěn jìn. The two of them are close to each other.
+
 4 easy to understand
+
 5 recent
----
+
+<hr style='width: 30%'>
+
 VERB
-approach"
-還;还;"hai2; huan2";"hai2
+
+approach";
+還;"hai2; huan2";"hai2
 ADVERB
+
 1 still; yet
+
 2 even/still more
+
 3 also; too; as well; in addition; besides
+
 4 passably; fairly
+
 5 even
----
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
+
 zhè/nà ∼ yòng V Is it necessary to V? 那還用說。 Nà hái yòng shuō. That goes without saying. See also ¹huán
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 huan2
 BOUND FORM
+
 go/come back in huánxiāng
----
+
+<hr style='width: 30%'>
+
 VERB
+
 1 give back; return; repay
-2 give/do sth. in return See also ¹hái"
-還原;还原;huan2yuan2;"VERB
+
+2 give/do sth. in return See also ¹hái";还
+還原;huan2yuan2;"VERB
+
 OBJECT CONSTRUCTION
+
 return to the original condition/shape; restore
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 1 chem. reduction
+
 2 math. inverse operation
----
+
+<hr style='width: 30%'>
+
 ATTRIBUTIVE
-, lg. recursive"
-還願;还愿;huan2yuan4;"VERB
+
+, lg. recursive";还原
+還願;huan2yuan4;"VERB
+
 OBJECT CONSTRUCTION
-fulfill a promise/vow 你不能只許願不還願。 Nǐ bùnéng zhị̌ xǔyuàn bù huányuàn. You can't just make a promise and not fulfill it."
-迫;;po4;"BOUND FORM
+
+fulfill a promise/vow 你不能只許願不還願。 Nǐ bùnéng zhị̌ xǔyuàn bù huányuàn. You can't just make a promise and not fulfill it.";还愿
+迫;po4;"BOUND FORM
+
 1 compel; force; coerce in qiǎngpò
+
 2 approach; come near in pòjìn
-3 urgent; pressing in jípò See also ¹pǎi"
-跡;迹;ji4;"BOUND FORM
+
+3 urgent; pressing in jípò See also ¹pǎi";
+跡;ji4;"BOUND FORM
+
 1 mark; trace in hénjì
+
 2 remains; ruins; vestige in ¹gǔjì
-3 outward sign; indication in jìxiàng"
-途;;tu2;"BOUND FORM
-road; route; journey; way in lùtú See also ⁴tū ²tú"
-通;;tong1;"VERB
+
+3 outward sign; indication in jìxiàng";迹
+途;tu2;"BOUND FORM
+
+road; route; journey; way in lùtú See also ⁴tū ²tú";
+通;tong1;"VERB
+
 1 communicate/connect (with)
+
 2 join; share
+
 3 understand thoroughly; master
+
 4 be interchangeable with ...
+
 5 open up or clear out by poking/jabbing
+
 6 notify; tell
----
+
+<hr style='width: 30%'>
+
 SUFFIX
-authority; expert 中國通 Zhōngguótōng China expert
----
+
+authority; expert
+	中國通 Zhōngguótōng China expert
+
+<hr style='width: 30%'>
+
 STATIC VERB
+
 logical; coherent; well-constructed (of sentences) 這個句子是通的, 不必改了。 Zhège jùzi shì tōng de, bụ̀bì gǎi le. This is a coherent sentence, it needs no correction.
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 (for telegrams)
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 Surname
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 open; through in xiāngtōng , dǎtōng
-2 general; common in gòngtōng See also ²tòng"
-通靈;通灵;tong1ling2;"VERB
+
+2 general; common in gòngtōng See also ²tòng";
+通靈;tong1ling2;"VERB
+
 OBJECT CONSTRUCTION
+
 1 possess supernatural powers
-2 have human intelligence (of animals/plants/etc.)"
-逝;;shi4;"BOUND FORM
-die in ³shìshì"
-造;;zao4;"VERB
+
+2 have human intelligence (of animals/plants/etc.)";通灵
+逝;shi4;"BOUND FORM
+
+die in ³shìshì";
+造;zao4;"VERB
+
 1 make; build; create; establish 我們在河上造了一座橋。 Wǒmen zài ²hé shang zàole yị̄ ⁴zuò qiáo. We built a bridge over the river.
+
 2 concoct; fabricate
+
 3 wr. go to; arrive at
+
 4 achieve; attain
+
 5 coll. spend lavishly; run wild; mess things up
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 1 parties in a lawsuit
+
 2 topo. crop
-3 epoch; period"
-造化;;zao4hua4;"NOUN
+
+3 epoch; period";
+造化;zao4hua4;"NOUN
+
 1 Heaven
-2 Mother Nature See also zàohua"
-遂;;sui4;"BOUND FORM
+
+2 Mother Nature See also zàohua";
+遂;sui4;"BOUND FORM
+
 1 satisfy; fulfill in suìxīn
+
 2 succeed in wèisuì
----
+
+<hr style='width: 30%'>
+
 ADVERB
-, wr. then; thereupon See also ³suí"
-道;;dao4;"NOUN
+
+, wr. then; thereupon See also ³suí";
+道;dao4;"NOUN
+
 road; path
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 1 (for rivers/topics/etc.)
+
 2 (for a course (of food); a streak (of light); etc.)
----
+
+<hr style='width: 30%'>
+
 VERB
-1 say; speak; talk (introducing direct quote, novel style) a 常言道 chángyán dào as the saying goes b 他說道: “…” Tā shuōdào: “...” He said: “...”
+
+1 say; speak; talk (introducing direct quote, novel style)
+	a 常言道 chángyán dào as the saying goes b 他說道: “…” Tā shuōdào: “...” He said: “...”
+
 2 think; suppose
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 channel
+
 2 way; reason; principle
+
 3 doctrine
+
 4 Daoism
+
 5 line
+
 6 hist. district; circuit
+
 7 canal; passage; tube
-8 say (polite words) in dàoxiè See also ⁴dāo ⁴dǎo"
-遺忘;遗忘;yi2wang4;"VERB
-forget"
-遣歸;遣归;qian3gui1;"VERB
-send (a prisoner/etc.) home; repatriate"
-遭;;zao1;"VERB
+
+8 say (polite words) in dàoxiè See also ⁴dāo ⁴dǎo";
+遺忘;yi2wang4;"VERB
+
+forget";遗忘
+遣歸;qian3gui1;"VERB
+
+send (a prisoner/etc.) home; repatriate";遣归
+遭;zao1;"VERB
+
 encounter
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
+
 1 (for times/turns) 饒了他這一遭吧。 Ráole tā zhè yī̠ zāo ba. Let him go this time.
-2 round"
-邢;;Xing2;"NOUN
-Surname  char. in Xíngyáo"
-邪;;"xie2; ye2";"xie2
+
+2 round";
+邢;Xing2;"NOUN
+
+Surname  char. in Xíngyáo";
+邪;"xie2; ye2";"xie2
 BOUND FORM
+
 1 evil in xiéqì
+
 2 heretical; irregular in xiéshuō
+
 3 strange; odd in xiéménr
+
 4 Ch. med. unhealthy influences that cause disease in fēngxié , hánxié
+
 5 disaster (caused by supernatural beings) in ¹qūxié See also ⁴yé
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 ye2
-char. in yéhū , Mòyé See also ⁵xié"
-邪術;邪术;xie2shu4;"NOUN
-sorcery; demonic magic"
-鐘;钟;zhong1;"NOUN
+char. in yéhū , Mòyé See also ⁵xié";
+邪術;xie2shu4;"NOUN
+
+sorcery; demonic magic";邪术
+邪魔歪道;xie2mo2wai1dao4;"FIXED EXPRESSION
+
+1 Budd. evil demons and heretics
+
+2 unorthodox ways; crooked ways and means
+
+3 heterodox doctrines";
+都;dou1;"ADVERB
+
+1 all 大家都來了 。 Dàjiā dōu lái le. Everyone has arrived.
+
+2 even
+
+3 already See also ²dū";
+重生;chong2sheng1;"VERB
+
+be reborn";
+鐘;zhong1;"NOUN
+
 1 bell
+
 2 clock
+
 3 archeo. náo musical instrument hung upside down to produce a clearer sound when struck
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
-time in diǎnzhōng , fēnzhōng See also ⁴zhōng ⁵zhōng"
-錢;钱;qian2;"NOUN
+
+time in diǎnzhōng , fēnzhōng See also ⁴zhōng ⁵zhōng";钟
+錢;qian2;"NOUN
+
 1 copper coin
+
 2 cash; money; fund; sum
+
 3 Surname
----
+
+<hr style='width: 30%'>
+
 NOMINAL MEASURE WORD
-five grams (1/10th of a tael) 一錢金子 yī̠ qián jīnzi five grams of gold"
-鍋;锅;guo1;"NOUN
+
+five grams (1/10th of a tael)
+	一錢金子 yī̠ qián jīnzi five grams of gold";钱
+鍋;guo1;"NOUN
+
 1 pot; wok; pan; boiler
+
 2 bowl (of a pipe/etc.)
-M: kǒu / 口"
-鎮守;镇守;zhen4shou3;"VERB
-guard (a region/etc.); garrison"
-鬧劇;闹剧;nao4ju4;"NOUN
-farce; slapstick comedy
-M: ²chǎng / chū / ²mù / 場 / 出 / 幕"
-閨女;闺女;gui1nü5;"NOUN
-1 girl; maiden 這閨女真懂事。 Zhè guīnü zhēn dǒngshì. This girl is really sensible.
-2 coll. daughter (unmarried) 你閨女多大了? Nǐ guīnü duō dà le? How old is your daughter?"
-陽;阳;yang2;"BOUND FORM
-1 Ch. phil. positive/active/male principle in nature in yīnyáng
-2 the sun in tàiyáng
-3 male genitals in ²yángwù
-4 in relief in ¹yángwén
-5 open; overt in yánggōu
-6 belonging to this world in yángjiān
-7 lg. masculine in yángxìng
-8 south side of a hill in Héngyáng
-9 north bank of a river in Luòyáng"
-陣;阵;zhen4;"NOUN
-1 battle array
-2 position; front
-3 a period of time
----
+
+M: kǒu / 口";锅
+鎮;zhen4;"NOUN
+
+1 town
+
+2 garrison post
+
+3 trading center
+
+<hr style='width: 30%'>
+
 VERB
-. (for passing phases/spells)
----
+
+1 press/keep down
+
+2 cool with cold water or ice
+
+3 guard; garrison
+
+4 suppress demons by magic
+
+5 (slang) excel
+
+<hr style='width: 30%'>
+
 BOUND FORM
-battle; fight in zhènwáng"
-降世;;jiang4shi4;"VERB
-OBJECT CONSTRUCTION
-, rel. be born into the world (of sacred figures, etc.)"
-陵;;ling2;"BOUND FORM
-1 hill; mound in qiūlíng
-2 imperial tomb; mausoleum in língmù"
-難;难;"nan2; nan4";"nan2
-STATIC VERB
-1 difficult; hard; troublesome 做人很難。 Zuòrén hěn nán. It's hard to act as a human being should.
-2 disagreeable; unpleasant
----
-PREFIX
-1 difficult 難懂 Nándǒng hard to understand
-2 disagreeable 這件衣服難看, 那件衣服好看。 Zhè jiàn yīfu nánkàn, nà jiàn yīfu hǎokàn. This clothing is ugly; that clothing is good-looking.
----
+
+calm; tranquil in zhèndìng";镇
+鎮守;zhen4shou3;"VERB
+
+guard (a region/etc.); garrison";镇守
+鬧劇;nao4ju4;"NOUN
+
+farce; slapstick comedy
+
+M: ²chǎng / chū / ²mù / 場 / 出 / 幕";闹剧
+閨女;gui1nü5;"NOUN
+
+1 girl; maiden 這閨女真懂事。 Zhè guīnü zhēn dǒngshì. This girl is really sensible.
+
+2 coll. daughter (unmarried) 你閨女多大了? Nǐ guīnü duō dà le? How old is your daughter?";闺女
+陽;yang2;"BOUND FORM
+
+1 Ch. phil. positive/active/male principle in nature in yīnyáng
+
+2 the sun in tàiyáng
+
+3 male genitals in ²yángwù
+
+4 in relief in ¹yángwén
+
+5 open; overt in yánggōu
+
+6 belonging to this world in yángjiān
+
+7 lg. masculine in yángxìng
+
+8 south side of a hill in Héngyáng
+
+9 north bank of a river in Luòyáng";阳
+陣;zhen4;"NOUN
+
+1 battle array
+
+2 position; front
+
+3 a period of time
+
+<hr style='width: 30%'>
+
 VERB
+
+. (for passing phases/spells)
+
+<hr style='width: 30%'>
+
+BOUND FORM
+
+battle; fight in zhènwáng";阵
+降世;jiang4shi4;"VERB
+
+OBJECT CONSTRUCTION
+
+, rel. be born into the world (of sacred figures, etc.)";
+除;chu2;"VERB
+
+1 get rid of; eliminate; remove
+
+2 math. divide 四除二等於二。 Sì chú èr děngyú èr. Four divided by two is two.
+
+<hr style='width: 30%'>
+
+ADVERB
+
+ 
+
+<hr style='width: 30%'>
+
+COVERB
+
+1 except
+
+2 besides
+
+<hr style='width: 30%'>
+
+NOUN
+
+, wr. doorsteps";
+除了;chu2le5;"COVERB
+
+1 except 除了電腦, 他對什麼都不感興趣。 Chúle diànnǎo, tā duì shénme dōu bù gǎn xìngqù. Apart from computers, he's not interested in anything.
+
+2 besides
+
+<hr style='width: 30%'>
+
+CONSTRUCTION
+
+1 ∼ A yǐwài apart from A; except for A
+
+2 ∼ A yǐwài, hái B in addition to A, also B";
+陵;ling2;"BOUND FORM
+
+1 hill; mound in qiūlíng
+
+2 imperial tomb; mausoleum in língmù";
+難;"nan2; nan4";"nan2
+STATIC VERB
+
+1 difficult; hard; troublesome 做人很難。 Zuòrén hěn nán. It's hard to act as a human being should.
+
+2 disagreeable; unpleasant
+
+<hr style='width: 30%'>
+
+PREFIX
+
+1 difficult
+	難懂 Nándǒng hard to understand
+
+2 disagreeable 這件衣服難看, 那件衣服好看。 Zhè jiàn yīfu nánkàn, nà jiàn yīfu hǎokàn. This clothing is ugly; that clothing is good-looking.
+
+<hr style='width: 30%'>
+
+VERB
+
 make difficult/difficulties See also nàn
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 nan4
 BOUND FORM
+
 1 calamity; disaster; adversity in zāinàn
-2 take to task; blame in zénàn See also ²nán"
-零;;ling2;"NUMBER
+
+2 take to task; blame in zénàn See also ²nán";难
+零;ling2;"NUMBER
+
 1 zero
+
 2 naught; nil
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 odd; a little extra in língtóu
+
 2 fractional; part in língshù
+
 3 small change in ¹língqián
+
 4 (mechanical) part in ¹língjiàn
-5 wither and fall in ¹língluò See also līng"
-震;;zhen4;"VERB
+
+5 wither and fall in ¹língluò See also līng";
+震;zhen4;"VERB
+
 1 shake; quake 房子震了一下。 Fángzi zhènle yị̄xià. The house shook once.
+
 2 shock by thunder
+
 3 be shocked/terrified
+
 4 (slang) excel 中國隊震了! Zhōngguó ²duì zhèn le! The Chinese team is fantastic!
----
+
+<hr style='width: 30%'>
+
 NOUN
+
 1 thunderclap
+
 2 earthquake
+
 3 name of one of the Eight Trigrams (☳)
-4 name of one of the Sixty-four Hexagrams (䷲)"
-非凡;;fei1fan2;"STATIC VERB
-outstanding; extraordinary; uncommon"
-竟;;jing4;"NOUN
+
+4 name of one of the Sixty-four Hexagrams (䷲)";
+非凡;fei1fan2;"STATIC VERB
+
+outstanding; extraordinary; uncommon";
+竟;jing4;"NOUN
+
 , wr. frontier; limit
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 1 in the end; eventually
+
 2 unexpectedly; actually
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 throughout; whole in jìngrì
+
 2 go to the length of
-3 finish; complete in ²wèijìng"
-竟然;;jing4ran2;"ADVERB
-unexpectedly; to one's surprise; actually 剛五月, 天氣竟然這麼熱。 Gāng Wǔyuè, tiānqì jìngrán zhème rè. It's only May, yet it's already so hot."
-顧;顾;gu4;"VERB
+
+3 finish; complete in ²wèijìng";
+竟然;jing4ran2;"ADVERB
+
+unexpectedly; to one's surprise; actually 剛五月, 天氣竟然這麼熱。 Gāng Wǔyuè, tiānqì jìngrán zhème rè. It's only May, yet it's already so hot.";
+顧;gu4;"VERB
+
 attend to; look after; take into consideration
----
+
+<hr style='width: 30%'>
+
 BOUND FORM
+
 1 turn around and look at in huígù
+
 2 advisor; consultant in gùwèn
+
 3 visit; call on
----
+
+<hr style='width: 30%'>
+
 CONJUNCTION
+
 1 on the contrary; instead
+
 2 however; but
----
+
+<hr style='width: 30%'>
+
 ADVERB
+
 indeed; really
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname"
-頻頻;频频;pin2pin2;"ADVERB
-again and again; repeatedly"
-風信;风信;feng1xin4;"NOUN
+
+Surname";顾
+頻頻;pin2pin2;"ADVERB
+
+again and again; repeatedly";频频
+風信;feng1xin4;"NOUN
+
 1 scent/sound brought by the wind
+
 2 news
-3 wr. seasonal wind"
-飛升;飞升;fei1sheng1;"VERB
+
+3 wr. seasonal wind";风信
+風光;feng1guang1;"NOUN
+
+1 scene; view; sight
+
+2 topo. grand; impressive; in style
+
+<hr style='width: 30%'>
+
+STATIC VERB
+
+1 have fame/status
+
+2 enjoy a life of luxury";风光
+飛升;fei1sheng1;"VERB
+
 1 become an immortal
-2 rise; ascend; fly up"
-罵;骂;ma4;"VERB
+
+2 rise; ascend; fly up";飞升
+罵;ma4;"VERB
+
 1 abuse; curse; call names
+
 2 condemn; reprove; scold
----
+
+<hr style='width: 30%'>
+
 CONSTRUCTION
-∼ ... gọ̌uxiěpēntóu savagely revile 他被罵了個狗血噴頭。 Tā bèi màle ge gǒuxiěpēntóu. He was savagely reviled."
-魂魄;;hun2po4;"NOUN
-soul; psyche"
-魄;;"po4; po4; po4";"po4
+
+∼ ... gọ̌uxiěpēntóu savagely revile 他被罵了個狗血噴頭。 Tā bèi màle ge gǒuxiěpēntóu. He was savagely reviled.";骂
+高度;gao1du4;"NOUN
+
+1 altitude; height
+
+2 high degree; apogee
+
+M: diǎnr / 點兒";
+魂;hun2;"NOUN
+
+soul; spirit; mood";
+魂魄;hun2po4;"NOUN
+
+soul; psyche";
+魄;"po4; po4; po4";"po4
 BOUND FORM
+
 1 soul in húnfēipòsàn
+
 2 vigor; spirit in ¹pòlì , qìpò
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 po4
 BOUND FORM
+
 1 soul in húnfēipòsàn
+
 2 vigor; spirit in ¹pòlì , qìpò
-===
+
+<hr style='width: 30%'><hr style='width: 30%'>
+
 po4
 BOUND FORM
+
 1 soul in húnfēipòsàn
-2 vigor; spirit in ¹pòlì , qìpò"
-魏;;Wei4;"NOUN
+
+2 vigor; spirit in ¹pòlì , qìpò";
+魏;Wei4;"NOUN
+
 1 name of several Ch. dynasties
-2 Surname"
-魔;;mo2;"BOUND FORM
+
+2 Surname";
+魔;mo2;"BOUND FORM
+
 1 evil spirit; demon; monster in móguǐ
-2 magic; mystic in ¹móshù"
-黃;黄;huang2;"STATIC VERB
+
+2 magic; mystic in ¹móshù";
+黃;huang2;"STATIC VERB
+
 1 yellow
+
 2 spoiled; withered
----
+
+<hr style='width: 30%'>
+
 VERB
+
 , coll. fizzle out; fall through
----
+
+<hr style='width: 30%'>
+
 NOUN
-Surname"
-黃花;黄花;huang2hua1;"NOUN
+
+Surname";黄
+黃花;huang2hua1;"NOUN
+
 1 day lily
+
 M: ²duǒ / 朵
+
 2 chrysanthemum
+
 M: ²duǒ / ¹kē / 朵 / 顆
-3 coll. virgin"
-黃金;黄金;huang2jin1;"NOUN
+
+3 coll. virgin";黄花
+黃金;huang2jin1;"NOUN
+
 gold
-M: ²kuài / 塊"
-鼎;;ding3;"NOUN
+
+M: ²kuài / 塊";黄金
+鼎;ding3;"NOUN
+
 1 ancient three-legged round (occasionally four-legged and rectangular) cauldron with two “ear”-shaped handles
+
 2 topo. pot; cauldron
+
 3 Surname
-4 name of one of the Sixty-four Hexagrams (䷱)"
-鼎鼎;;ding3ding3;"REDUPLICATED FORM
-grand"
-齏粉;齑粉;ji1fen3;"NOUN
+
+4 name of one of the Sixty-four Hexagrams (䷱)";
+鼎鼎;ding3ding3;"REDUPLICATED FORM
+
+grand";
+齏粉;ji1fen3;"NOUN
+
 , wr. fine powder
----
+
+<hr style='width: 30%'>
+
 VERB
+
 OBJECT CONSTRUCTION
-be completely annihilated"
+
+be completely annihilated";齑粉
