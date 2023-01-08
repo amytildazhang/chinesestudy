@@ -74,7 +74,7 @@ pleco_deck <- anno_both(pleco_deck)
 colnames(pleco_deck) # check column order before defining headers
 
 save_anki(pleco_deck, "tianguancifu",
-          columns="Traditional;Simplified;Reading;Definition",
+          columns="Traditional;Reading;Definition;Simplified",
           notetype="Chinese (Trad and Simp)")
 ```
 
