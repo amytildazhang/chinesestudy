@@ -93,9 +93,8 @@ split_examples <- function(df, defn_col = "definition") {
 
 #' @param double_break Insert a double line break before items in numbered lists.
 #'   Useful when there are examples that have a lot of text.
-separate_lists <- function(df, format = "\\d", defn_col = "definition",
-                           double_break = FALSE) {
-  repl <- ifelse(double_break, "\n\n\\1", "\n\\1")
+separate_lists <- function(df, format = "\\d", defn_col = "definition") {
+  repl <- "\n\n\\1"
   defn <- df[[defn_col]] |>
     str_replace_all(paste0(" (", format, ")"), repl)
   df[[defn_col]] <- defn
