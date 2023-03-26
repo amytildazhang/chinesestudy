@@ -105,3 +105,14 @@ anki_decks <- function() {
 anki_deck_path <- function(deck) {
   path("decks", paste0(deck, ".txt"))
 }
+
+
+#'
+#' https://chinesecalligrapher.com
+#'
+export_calligrapher <- function(vec) {
+  all <- paste0(vec, collapse="")
+  all_unique <- unique(strsplit(all, ''))
+  paste0(sort(all_unique), collapse = '')
+}
+
