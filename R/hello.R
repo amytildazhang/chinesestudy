@@ -31,7 +31,7 @@ read_pleco <- function(filename, loc = NULL) {
     comment   = "//"
   )
 
-  df[c("word", "pinyin", "definition")]
+  unique(df[c("word", "pinyin", "definition")])
 }
 
 
