@@ -41,7 +41,8 @@ library(chinesestudy)
 pleco_deck <- read_pleco("flash.txt") |> 
   separate_lists() |>
   reformat_abc() |>
-  merge_dupes()
+  merge_dupes() |>
+  split_examples()
 
 save_anki(pleco_deck, "tianguancifu")
 ```
@@ -63,9 +64,11 @@ I named it "Chinese (Trad and Simp)"
 # same as previous example
 library(chinesestudy)
 pleco_deck <- read_pleco("flash.txt") |> 
+  unique() |>
   separate_lists() |>
   reformat_abc() |>
-  merge_dupes()
+  merge_dupes() |>
+  split_examples()
 
 # difference
 
@@ -76,5 +79,15 @@ colnames(pleco_deck) # check column order before defining headers
 save_anki(pleco_deck, "tianguancifu",
           columns="Traditional;Reading;Definition;Simplified",
           notetype="Chinese (Trad and Simp)")
+```
+
+
+```r
+simp_trad <- pleco_deck |>
+  dplyr::filter(simplified != "") |>
+  merge_dupes(word_col = "simplified", reading_col = "pinyin", defn_col = "traditional") |>
+  dplyr::select(simplified, traditional, pinyin)
+save_anki(simp_trad, "simp_vs_trad", columns="Simplified;Traditional;Reading",
+notetype = "Simplified")
 ```
 
