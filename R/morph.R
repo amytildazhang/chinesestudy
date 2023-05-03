@@ -10,14 +10,17 @@ merge_dupes <- function(df, word_col = "word", reading_col = "pinyin",
   separator <- ifelse(html, "\n\n<hr style='width: 30%'><hr style='width: 30%'>\n\n",
                       "\n\n===\n\n")
   df |>
+    dplyr::mutate(order = 1:dplyr::n()) |>
     dplyr::group_by(!!word) |>
     dplyr::summarise(
-      !!defn := ifelse(n() > 1,
-                       paste(paste(!!pyin, !!defn, sep = "\n"),
-                             collapse = separator),
-                       !!defn),
+      order = min(order),
+      !!defn := ifelse(
+        n() > 1,
+        paste(paste(!!pyin, !!defn, sep = "\n"), collapse = separator),
+        !!defn),
       !!pyin := paste(!!pyin, collapse = "; ")
     ) |>
+    dplyr::arrange(order) |>
     dplyr::select(!!word, !!pyin, !!defn)
 }
 
@@ -49,10 +52,10 @@ merge_dupes <- function(df, word_col = "word", reading_col = "pinyin",
 #'  columns, `"simplified"` and `"traditional"`.
 #' @export
 anno_both <- function(df, word_col = "word",
-                      brackets = "traditional",
-                      purge = "simplified",
-                      reading_col = "pinyin",
-                      defn_col = "definition") {
+                      brackets     = "traditional",
+                      purge        = "simplified",
+                      reading_col  = "pinyin",
+                      defn_col     = "definition") {
   types <- c("traditional", "simplified")
   brackets <- match.arg(brackets, types)
   purge <- match.arg(purge, types)
@@ -69,15 +72,15 @@ split_simplified <- function(df, word_col = "word", brackets = "traditional") {
   other <- setdiff(types, brackets)
   df[[brackets]] <- gsub("^[^\\[]+\\[", "", df[[word_col]])
   df[[brackets]] <- gsub("\\]", "", df[[brackets]])
-  df[[other]] <- gsub("\\[.+\\]", "", df[[word_col]])
+  df[[other]]    <- gsub("\\[.+\\]", "", df[[word_col]])
   df
 }
 
 #' @describeIn anno_both Remove matching entries from specified purge column.
 #' @export
 purge_same <- function(df, cols = c("simplified", "traditional"), purge = "simplified") {
-  dupes_col <- df[[purge]]
-  other_col <- df[[setdiff(cols, purge)]]
+  dupes_col   <- df[[purge]]
+  other_col   <- df[[setdiff(cols, purge)]]
   df[[purge]] <- ifelse(dupes_col == other_col, "", dupes_col)
   df
 }
@@ -137,24 +140,24 @@ pos_abc <- function() {
     "B\\.F\\." = "BOUND FORM",
     "F\\.E\\." = "FIXED EXPRESSION",
     "COURT\\." = "COURTEOUS",
-    "ATTR\\." = "ATTRIBUTIVE",
-    "TOPO\\." = "TOPOLECT",
-    "CONS\\." = "CONSTRUCTION",
-    "COLL\\." = "COLLOQUIAL",
-    "CONJ\\." = "CONJUNCTION",
-    "TRAD\\." = "TRADITIONAL",
-    "CHAR\\." = "CHARACTER",
-    "PREF\\." = "PREFIX",
-    "HIST\\." = "HISTORY",
-    "THEA\\." = "THEATER",
-    "COV\\." = "COVERB",
-    "NUM\\." = "NUMBER",
-    "ADV\\." = "ADVERB",
-    "SUF\\." = "SUFFIX",
-    "WR\\." = "WRITING",
-    "PR\\." = "PRONOUN",
-    "V\\." = "VERB",
-    "N\\." = "NOUN",
-    "M\\." = "NOMINAL MEASURE WORD")
+    "ATTR\\."  = "ATTRIBUTIVE",
+    "TOPO\\."  = "TOPOLECT",
+    "CONS\\."  = "CONSTRUCTION",
+    "COLL\\."  = "COLLOQUIAL",
+    "CONJ\\."  = "CONJUNCTION",
+    "TRAD\\."  = "TRADITIONAL",
+    "CHAR\\."  = "CHARACTER",
+    "PREF\\."  = "PREFIX",
+    "HIST\\."  = "HISTORY",
+    "THEA\\."  = "THEATER",
+    "COV\\."   = "COVERB",
+    "NUM\\."   = "NUMBER",
+    "ADV\\."   = "ADVERB",
+    "SUF\\."   = "SUFFIX",
+    "WR\\."    = "WRITING",
+    "PR\\."    = "PRONOUN",
+    "V\\."     = "VERB",
+    "N\\."     = "NOUN",
+    "M\\."     = "NOMINAL MEASURE WORD")
 
 }
