@@ -1,25 +1,25 @@
-anki_headers <- function(separator = "Semicolon",
-                         html = "false",
-                         tags = NULL,
-                         columns = "front;reading;back",
-                         notetype = "Chinese",
-                         deck = "tianguancifu",
+anki_headers <- function(separator    = "Semicolon",
+                         html         = "false",
+                         tags         = NULL,
+                         columns      = "front;reading;back",
+                         notetype     = "Chinese",
+                         deck         = "tianguancifu",
                          notetype_col = NULL,
-                         deck_col = NULL,
-                         tags_col = NULL,
-                         guid_col = NULL) {
+                         deck_col     = NULL,
+                         tags_col     = NULL,
+                         guid_col     = NULL) {
   deck <- match.arg(deck, anki_decks(), several.ok = FALSE)
   args <- list(
-    separator = separator,
-    html = html,
-    tags = tags,
-    columns = columns,
-    notetype = notetype,
-    deck = deck,
+    separator    = separator,
+    html         = html,
+    tags         = tags,
+    columns      = columns,
+    notetype     = notetype,
+    deck         = deck,
     notetype_col = notetype_col,
-    deck_col = deck_col,
-    tags_col = tags_col,
-    guid_col = guid_col
+    deck_col     = deck_col,
+    tags_col     = tags_col,
+    guid_col     = guid_col
   )
 
   provided <- !vapply(args, is.null, logical(1L))
@@ -62,11 +62,11 @@ save_anki <- function(df, deck, append = FALSE, ...) {
   sep <- gsub("#separator:", "", sep)
   delim <- switch(sep,
                   "Semicolon" = ";",
-                  "Comma" = ",",
-                  "Tab" = "\t",
-                  "Pipe" = "|",
-                  "Space" = " ",
-                  "Colon" = ":")
+                  "Comma"     = ",",
+                  "Tab"       = "\t",
+                  "Pipe"      = "|",
+                  "Space"     = " ",
+                  "Colon"     = ":")
 
   write_delim(df, save_loc, delim = delim, na = "", append = TRUE)
 }
@@ -111,7 +111,7 @@ anki_deck_path <- function(deck) {
 #' https://chinesecalligrapher.com
 #'
 export_calligrapher <- function(vec) {
-  all <- paste0(vec, collapse="")
+  all        <- paste0(vec, collapse="")
   all_unique <- unique(strsplit(all, ''))
   paste0(sort(all_unique), collapse = '')
 }

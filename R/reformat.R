@@ -13,7 +13,7 @@
 reformat_abc <- function(df,
                          pos_dict = pos_abc(),
                          defn_col = "definition",
-                         html = TRUE) {
+                         html     = TRUE) {
   separator <- ifelse(html, "\n\n<hr style='width: 30%'>\n\n", "\n\n---\n\n")
   defn <- df[[defn_col]]
   if (!is.null(names(pos_dict))) {
