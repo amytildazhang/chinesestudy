@@ -68,17 +68,24 @@ pleco_deck <- read_pleco("flash.txt") |>
   separate_lists() |>
   reformat_abc() |>
   merge_dupes() |>
-  split_examples()
+  split_examples() 
 
 # difference
 
-pleco_deck <- anno_both(pleco_deck)
+pleco_deck <- anno_both(pleco_deck) |>
+  tag_hsk()
 
 colnames(pleco_deck) # check column order before defining headers
 
+
 save_anki(pleco_deck, "tianguancifu",
-          columns="Traditional;Reading;Definition;Simplified",
+          columns="Traditional;Reading;Definition;Simplified;tag",
           notetype="Chinese (Trad and Simp)")
+
+pleco_deck |>
+  dplyr::filter(nchar(traditional) == 1) |>
+  dplyr::select(traditional, tag) |>
+  save_anki("writing", columns="Hanzi;tag")
 ```
 
 
